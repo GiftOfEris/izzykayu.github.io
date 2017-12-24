@@ -2,28 +2,25 @@
 
 Beginner Data Scientist :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [linkedin](https://www.linkedin.com/in/isabel-metzger-53675366/)
 
-### Let's talk about twitter
+### Data is everywhere, let's see how we can learn more about human health through various datasets!
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### TEAM PROJECTS:
+team members: Isabel Metzger, Lorel Burns, DDS, Ana Raghunath
+1. Machine Learning in Dental Radiology: Interpretation of Periapical Lesions Associated with Maxillary Molars
+2. Predicting tweeter’s state insurance coverage level via tweeter's profile text and tweet text
+3. Exploring Dental Care Affordability via Twitter: A Descriptive Study
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### MY PROJECTS:
+1. Natural Language Processing in identification of disease states in the MIMIC III dataset Medical Notes
+2. Modeling the Health Insurance Marketplace client
+2. Mortality Risk Prediction Model Using Natural Language Processing of Electronic Medical Records
+3. Identifying social media markers of substance abuse symptoms via tweets: Four predictive models
+4. Supervised Learning predicting Heroin Death vs Non Heroin Death in CT Accidental Drug Related Deaths Government Dataset 
+5. DaniBot _(Chatbot based off my best friend Danielle because she is hilarious)_
 ```
 
-### Jekyll Themes
+### Data Visualization For My Soul
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
