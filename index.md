@@ -36,5 +36,5 @@ _This project uses multiple government open data sets_
 -----------------
 
 # 1
-![Screenshot](`Screen Shot 2017-12-24 at 3.55.24 PM.png`)
+![IMAGE](maps.png)
 
