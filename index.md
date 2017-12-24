@@ -4,22 +4,25 @@ Beginner Data Scientist :crystal_ball: Creative and Passionate :pencil: Futurist
 
 ### Data is everywhere, let's see how we can learn more about human health through various datasets!
 
-```markdown
-
 ### TEAM PROJECTS:
 team members: Isabel Metzger, Lorel Burns, DDS, Ana Raghunath
-1. Machine Learning in Dental Radiology: Interpretation of Periapical Lesions Associated with Maxillary Molars
-2. Predicting tweeter’s state insurance coverage level via tweeter's profile text and tweet text
-3. Exploring Dental Care Affordability via Twitter: A Descriptive Study
+1. [Machine Learning in Dental Radiology: Interpretation of Periapical Lesions Associated with Maxillary Molars](pages/independent_site.html)
+2. [Predicting tweeter’s state insurance coverage level via tweeter's profile text and tweet text](pages/independent_site.html)
+3. [Exploring Dental Care Affordability via Twitter: A Descriptive Study](pages/independent_site.html)
 
 ### MY PROJECTS:
 1. Natural Language Processing in identification of disease states in the MIMIC III dataset Medical Notes
+
 2. Modeling the Health Insurance Marketplace client
-2. Mortality Risk Prediction Model Using Natural Language Processing of Electronic Medical Records
-3. Identifying social media markers of substance abuse symptoms via tweets: Four predictive models
-4. Supervised Learning predicting Heroin Death vs Non Heroin Death in CT Accidental Drug Related Deaths Government Dataset 
-5. DaniBot _(Chatbot based off my best friend Danielle because she is hilarious)_
-```
+
+3. Mortality Risk Prediction Model Using Natural Language Processing of Electronic Medical Records
+
+4. Identifying social media markers of substance abuse symptoms via tweets: Four predictive models
+
+5. Supervised Learning predicting Heroin Death vs Non Heroin Death in CT Accidental Drug Related Deaths Government Dataset 
+
+6. DaniBot _(Chatbot based off my best friend Danielle because she is hilarious)_
+
 
 ### Data Visualization For My Soul
 
