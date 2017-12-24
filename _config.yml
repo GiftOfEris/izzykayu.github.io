@@ -3,7 +3,7 @@ title: Welcome to izzykayu's github homepage.
 description: Be on the look out for data visualizations, predictive models, emoji sentiment analysis, and more fun stuff!
 # This is the default format.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title
+# permalink: /:categories/:year/:month/:day/:title
 
   #exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
   #highlighter: rouge
@@ -11,12 +11,11 @@ permalink: /:categories/:year/:month/:day/:title
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : isabel metzger
-author :
-  name : isabel metzger
-  email : isabel.metzger@nyumc.org
-  github : izzykayu
-  instagram : datavizgirls
+# title : isabel metzger
+# author :
+  name: isabel metzger
+  email: isabel.metzger@nyumc.org
+  instagram: @datavizgirls
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
   #production_url : http://izzykayu.github.io/simple_site
