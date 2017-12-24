@@ -1,6 +1,6 @@
 ## Welcome
 
-Data scientist. Futurist. Always trying to learn more. You can reach me at [isabel.metzger@nyumc.org](url)
+Beginner Data Scientist :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [isabel.metzger@nyumc.org](url)
 
 ### Markdown
 
@@ -25,8 +25,6 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/izzykayu/izzykayu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
