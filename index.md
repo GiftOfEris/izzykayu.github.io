@@ -5,7 +5,6 @@ Beginner Data Scientist :crystal_ball: Creative and Passionate :pencil: Futurist
 ### Data is everywhere, let's see how we can learn more about human health through various datasets!
 
 ```markdown
-Syntax highlighted code block
 
 ### TEAM PROJECTS:
 team members: Isabel Metzger, Lorel Burns, DDS, Ana Raghunath
