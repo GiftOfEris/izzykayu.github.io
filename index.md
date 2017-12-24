@@ -1,9 +1,9 @@
 ### Welcome
 
 Beginner Data Scientist :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [linkedin](https://www.linkedin.com/in/isabel-metzger-53675366/)
-
-![IMAGE](dora.jpg)
-
+```markdown
+###![IMAGE](dora.jpg)
+```
 ### Data is everywhere, let's see how we can learn more about human health through various datasets!
 
 ##### TEAM PROJECTS:
@@ -36,6 +36,5 @@ _This project uses multiple government open data sets_
 -----------------
 
 # 1
-![IMAGE](Screen Shot 2017-12-24 at 3.55.24 PM.png)
-Source: 
+![Screenshot](`Screen Shot 2017-12-24 at 3.55.24 PM.png`)
 
