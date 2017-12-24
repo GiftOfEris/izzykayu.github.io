@@ -18,7 +18,6 @@ team members: Isabel Metzger, Lorel Burns, DDS, Ana Raghunath
 5. Supervised Learning predicting Heroin Death vs Non Heroin Death in CT Accidental Drug Related Deaths Government Dataset 
 6. DaniBot _(Chatbot based off my best friend Danielle because she is hilarious)_
 
-
 # Data Visualization and Exploratory Data Analysis
 In this dataset, I found that young people (under 50s) overwhelmingly represented deaths with Heroin present (which I will refer to as Heroin Death).
 
@@ -30,9 +29,10 @@ Growing up in a working-class community where drugs offered comfort to many, I w
 We as clinicians and health data scientists need to assume some responsibility for moving the field in a direction where clinicians are better trained to prevent and recognize drug abuse, and drug death, especially when working in resource-strapped communities. My community deserves this. **Every community deserves this.**
 
 _This project uses multiple government open data sets_
-1.to provide a glimpse of current US trends in overdose deaths and opioid use
-2.to predict model heroin death vs accidental drug death with no heroin found in the body.
+1. Glimpse of current US trends in overdose deaths and opioid use.
+2. Machine Learning Prediction Model: heroin death vs accidental drug death with no heroin found in the body.
 3. Additionally, it explores opioid overprescription.
+-----------------
 
 
 
