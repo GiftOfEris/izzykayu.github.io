@@ -2,7 +2,7 @@
 
 Beginner Data Scientist :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [https://www.linkedin.com/in/isabel-metzger-53675366/](url)
 
-### Markdown
+### Let's talk about twitter
 
 ```markdown
 Syntax highlighted code block
@@ -21,8 +21,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
