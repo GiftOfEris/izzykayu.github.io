@@ -1,6 +1,6 @@
 ## Welcome
 
-Beginner Data Scientist :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [https://www.linkedin.com/in/isabel-metzger-53675366/](url)
+Beginner Data Scientist :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [linkedin](https://www.linkedin.com/in/isabel-metzger-53675366/)
 
 ### Let's talk about twitter
 
