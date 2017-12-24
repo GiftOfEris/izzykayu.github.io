@@ -1,5 +1,5 @@
 ## Welcome
-```markdown
+
 Beginner Data Scientist :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [linkedin](https://www.linkedin.com/in/isabel-metzger-53675366/)
 
 ### Data is everywhere, let's see how we can learn more about human health through various datasets!
@@ -27,7 +27,7 @@ Growing up in a working-class community where drugs offered comfort to many, I w
 
 ### AND ACTUALLY THOUGH
 We as clinicians and health data scientists need to assume some responsibility for moving the field in a direction where clinicians are better trained to prevent and recognize drug abuse, and drug death, especially when working in resource-strapped communities. My community deserves this. **Every community deserves this.**
-```
+
 _This project uses multiple government open data sets_
 1. Glimpse of current US trends in overdose deaths and opioid use.
 2. Machine Learning Prediction Model: heroin death vs accidental drug death with no heroin found in the body.
