@@ -3,4 +3,13 @@ title: Welcome to izzykayu's github homepage.
 description: Be on the look out for data visualizations, predictive models, emoji sentiment analysis, and more fun stuff!
 
 plugins:
+  - jekyll-github-metadata
+
+plugins:
   - jemoji
+  
+plugins:
+  - jekyll-gist
+  
+  plugins:
+  - jekyll-mentions
