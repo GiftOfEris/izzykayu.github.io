@@ -42,6 +42,7 @@ _This project uses multiple government open data sets_
 
 ![](DeathRatesByRegion.png)
 
+[How I did this](https://github.com/izzykayu/izzykayu.github.io/blob/master/graphsglimpse.pdf)
 
 **Sources:**
 [CDC Drug Overdose Dataset](https://www.cdc.gov/drugoverdose/data/statedeaths.html)
