@@ -42,7 +42,7 @@ _This project uses multiple government open data sets_
 #### Opioid Death Rates, adjusted for age and population, Region sums, 2013-2015.
 ![IMAGE](DeathRatesByRegion.png)
 
-[Click here to see How I prepared this data and made these plots!](https://github.com/izzykayu/izzykayu.github.io/blob/master/graphsglimpse.pdf)
+[Click here to see How I prepared this data and made these plots! :bar_chart:](https://github.com/izzykayu/izzykayu.github.io/blob/master/graphsglimpse.pdf)
 
 **Sources:**
 [CDC Drug Overdose Dataset](https://www.cdc.gov/drugoverdose/data/statedeaths.html),
