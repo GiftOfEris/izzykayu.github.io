@@ -2,7 +2,7 @@
 
 Beginner Data Scientist :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [linkedin](https://www.linkedin.com/in/isabel-metzger-53675366/)
 
-![IMAGE](dora.jpg=250x250)
+![IMAGE](doraemon.jpg)
 
 ### Data is everywhere, let's see how we can learn more about human health through various datasets!
 
@@ -21,9 +21,10 @@ team members: Isabel Metzger, Lorel Burns, DDS, Ana Raghunath
 6. DaniBot _(Chatbot based off my best friend Danielle because she is hilarious)_
 
 ##### Data Visualization and Exploratory Data Analysis
-The open dataset from data.gov can be found here:
-[Accidental Drug Related Deaths 2012-June 2017](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015)
-----------
+The open dataset from data.gov can be found here: 
+[Accidental Drug Related Deaths 2012-June 2017]
+(https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015)
+
 Growing up in a working-class community where drugs offered comfort to many, I witnessed relatives and friends struggle with drug addiction, some until it killed them. By the time I turned 21, my uncle had died of Hepatitis C, contracted through needle sharing, and three of my friends had fatally overdosed on opiates. These losses forced me to confront the complexity of pharmacology at an early age—that drugs designed to maximize health often contribute to the undoing of vulnerable lives.
 
 ### AND ACTUALLY THOUGH
@@ -35,6 +36,7 @@ _This project uses multiple government open data sets_
 3. Additionally, it explores opioid overprescription.
 -----------------
 
-# 1
+# 1 This map shows the difference in Opioid Death Rates from 2013 to 2015. Note that the rates have been age-adjusted and population-adjusted.
+
 ![IMAGE](maps.png)
 
