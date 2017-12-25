@@ -8,7 +8,7 @@ Beginner Data Scientist :crystal_ball: Creative and Passionate :pencil: Futurist
 
 Calendar Heat map of Drug Deaths from 2012 - 2016 in CT
 
-![IMAGE](mapwithcoveragelevel.png)
+![](mapwithcoveragelevel.png)
 Mapping dental "can't afford" tweets
 from pilot study against medicaid coverage levels
 
