@@ -40,7 +40,7 @@ _This project uses multiple government open data sets_
 ### State Opioid Death Rates, adjusted for age and population.
 ![IMAGE](maps.png)
 
-![](.png)
+![](DeathRatesByRegion.png)
 
 
 **Sources:**
