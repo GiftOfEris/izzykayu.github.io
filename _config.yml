@@ -4,12 +4,6 @@ description: Be on the look out for data visualizations, predictive models, emoj
 
 plugins:
   - jekyll-github-metadata
-
-plugins:
   - jemoji
-  
-plugins:
   - jekyll-gist
-  
-  plugins:
   - jekyll-mentions
