@@ -4,6 +4,7 @@ Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :g
 ### Some dataviz examples
 >Heat map of Accidental Drug Deaths from 2012 - 2016
 ![Heat map of Accidental Drug Deaths from 2012 - 2016](calendar.png)
+
 >Twitter Map using Google Maps Geolocation API
 ![IMAGE](mapwithcoveragelevel.png)
 
