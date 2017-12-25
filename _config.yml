@@ -4,7 +4,4 @@ description: Be on the look out for data visualizations, predictive models,
 social media analysis, mortality risk prediction, emoji sentiment analysis, and more fun stuff!
 
 plugins:
-  - jekyll-github-metadata
   - jemoji
-  - jekyll-gist
-  - jekyll-mentions
