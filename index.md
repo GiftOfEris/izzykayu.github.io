@@ -1,8 +1,17 @@
-### Welcome
+# Welcome~~
+instagram: @datavizgirls
 Beginner Data Scientist :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [linkedin](https://www.linkedin.com/in/isabel-metzger-53675366/)
 
-![IMAGE](doraemon.png)
+# Some dataviz examples
 ![IMAGE](calendar.png)
+_Calendar Heat map of Accidental Drug Deaths from 2012 - 2016 in CT_
+
+![IMAGE](mapwithcoveragelevel.png)
+_Mapping dental "can't afford" tweets from pilot study against medicaid coverage levels_
+
+Oh, and this is me!
+![IMAGE](doraemon.png)
+_I love doraemon_
 
 ### Data is everywhere, let's see how we can learn more about human health through various datasets!
 ## TEAM PROJECTS:
