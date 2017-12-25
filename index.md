@@ -6,7 +6,7 @@ Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :g
 
 Calendar Heat map of Accidental Drug Deaths from 2012 - 2016 in CT
 
-![](mapwithcoveragelevel.png)
+![IMAGE](mapwithcoveragelevel.png)
 
 ### Data is everywhere, let's see how we can learn more about human health through various datasets!
 ### TEAM PROJECTS:
@@ -42,7 +42,7 @@ _This project uses multiple government open data sets_
 
 ![IMAGE](DeathRatesByRegion.png)
 
-[Click here to see How I prepared this data and made these plots](https://github.com/izzykayu/izzykayu.github.io/blob/master/graphsglimpse.pdf)
+[Click here to see How I prepared this data and made these plots!](https://github.com/izzykayu/izzykayu.github.io/blob/master/graphsglimpse.pdf)
 
 **Sources:**
 [CDC Drug Overdose Dataset](https://www.cdc.gov/drugoverdose/data/statedeaths.html),
