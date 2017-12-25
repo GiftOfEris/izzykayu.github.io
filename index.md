@@ -4,15 +4,18 @@ Beginner Data Scientist :crystal_ball: Creative and Passionate :pencil: Futurist
 
 ### Some dataviz examples
 ![IMAGE](calendar.png)
+
+
 Calendar Heat map of Drug Deaths from 2012 - 2016 in CT
 
 ![IMAGE](mapwithcoveragelevel.png)
+Mapping dental "can't afford" tweets
+from pilot study against medicaid coverage levels
 
-Mapping dental "can't afford" tweets from pilot study against medicaid coverage levels
-
-Oh, and this is me!
+>Oh, and this is me!
+>I love Doraemon
 ![IMAGE](doraemon.png)
-_I love doraemon_
+
 
 ### Data is everywhere, let's see how we can learn more about human health through various datasets!
 ### TEAM PROJECTS:
