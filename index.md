@@ -1,5 +1,5 @@
 ### Welcome
-Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [linkedin](https://www.linkedin.com/in/isabel-metzger-53675366/) :camera: instagram:[@datavizgirls](https://www.instagram.com/datavizgirls/) @datavizgirls
+Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [linkedin](https://www.linkedin.com/in/isabel-metzger-53675366/) :camera: instagram:[@datavizgirls](https://www.instagram.com/datavizgirls/)
 
 ### Some dataviz examples
 ![IMAGE](calendar.png)
@@ -45,4 +45,5 @@ _This project uses multiple government open data sets_
 
 
 **Sources:**
+[CDC DATA SET]
 [open gov dataset here](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015)
