@@ -37,9 +37,9 @@ _This project uses multiple government open data sets_
 2. Machine Learning Prediction Model: heroin death vs accidental drug death with no heroin found in the body.
 3. Additionally, I provide some analysis in trying to detect overprescribing of opioids.
 # NATIONAL SNAPSHOT
-### State Opioid Death Rates, adjusted for age and population.
+#### State Opioid Death Rates, adjusted for age and population.
 ![IMAGE](maps.png)
-
+#### Opioid Death Rates, adjusted for age and population, Region sums, 2013-2015.
 ![IMAGE](DeathRatesByRegion.png)
 
 [Click here to see How I prepared this data and made these plots!](https://github.com/izzykayu/izzykayu.github.io/blob/master/graphsglimpse.pdf)
