@@ -44,5 +44,5 @@ _This project uses multiple government open data sets_
 
 
 **Sources:**
-[CDC DRUG OVERDOSE DATASET](https://www.cdc.gov/drugoverdose/data/statedeaths.html)
-[open gov dataset here](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015)
+[CDC Drug Overdose Dataset](https://www.cdc.gov/drugoverdose/data/statedeaths.html)
+[CT Accidental Drug Deaths Dataset](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015)
