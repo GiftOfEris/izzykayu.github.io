@@ -1,21 +1,14 @@
 ### Welcome
-~instagram:~ @datavizgirls
-Beginner Data Scientist :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [linkedin](https://www.linkedin.com/in/isabel-metzger-53675366/)
+Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [linkedin](https://www.linkedin.com/in/isabel-metzger-53675366/)
+[instagram:](https://www.instagram.com/datavizgirls/) @datavizgirls
 
 ### Some dataviz examples
 ![IMAGE](calendar.png)
 
-
-Calendar Heat map of Drug Deaths from 2012 - 2016 in CT
+Calendar Heat map of Accidental Drug Deaths from 2012 - 2016 in CT
 
 ![](mapwithcoveragelevel.png)
-Mapping dental "can't afford" tweets
-from pilot study against medicaid coverage levels
-
->Oh, and this is me!
->I love Doraemon
-![IMAGE](doraemon.png)
-
+Mapping dental "can't afford" tweets with medicaid dental coverage levels
 
 ### Data is everywhere, let's see how we can learn more about human health through various datasets!
 ### TEAM PROJECTS:
@@ -45,7 +38,7 @@ _This project uses multiple government open data sets_
 1. Glimpse of current US trends in overdose deaths and opioid use.
 2. Machine Learning Prediction Model: heroin death vs accidental drug death with no heroin found in the body.
 3. Additionally, I provide some analysis in trying to detect overprescribing of opioids.
-
+# NATIONAL SNAPSHOT
 ### State Opioid Death Rates, adjusted for age and population.
 ![IMAGE](maps.png)
 
@@ -53,4 +46,4 @@ _This project uses multiple government open data sets_
 
 
 **Sources:**
-The open dataset from data.gov can be found here:[dataset](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015)
+[open gov dataset here](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015)
