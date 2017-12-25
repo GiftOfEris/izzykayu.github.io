@@ -24,13 +24,15 @@ team members: Isabel Metzger, Lorel Burns, DDS, Ana Raghunath
 2. [Predicting tweeter’s state insurance coverage level via tweeter's profile text and tweet text](izzykayu.github.io/twitterdental.md)
 3. [Exploring Dental Care Affordability via Twitter: A Descriptive Study](izzykayu.github.io/twitterdental.md)
 
-### MY PROJECTS:
+### TERM PROJECTS:
 1. Natural Language Processing in identification of disease states in the MIMIC III dataset Medical Notes
 2. Modeling the Health Insurance Marketplace client
 3. Mortality Risk Prediction Model Using Natural Language Processing of Electronic Medical Records
 4. Identifying social media markers of substance abuse symptoms via tweets: Four predictive models
 5. Supervised Learning predicting Heroin Death vs Non Heroin Death in CT Accidental Drug Related Deaths Government Dataset 
-6. DaniBot _(Chatbot based off my best friend Danielle because she is hilarious)_
+
+### PERSONAL PROJECTS:
+1. DaniBot _(Chatbot based off my best friend Danielle because she is hilarious)_
 
 ## Data Visualization and Exploratory Data Analysis
 # REAL TALK. Opioids
@@ -47,6 +49,7 @@ _This project uses multiple government open data sets_
 ### State Opioid Death Rates, adjusted for age and population.
 ![IMAGE](maps.png)
 
+![](Screen Shot 2017-12-24 at 7.48.48 AM.png)
 
 
 **Sources:**
