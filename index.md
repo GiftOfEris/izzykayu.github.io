@@ -27,9 +27,12 @@ We as clinicians and health data scientists need to assume some responsibility f
 _This project uses multiple government open data sets_
 1. Glimpse of current US trends in overdose deaths and opioid use.
 2. Machine Learning Prediction Model: heroin death vs accidental drug death with no heroin found in the body.
-3. Additionally, it explores opioid overprescription.
+3. Additionally, I provide some analysis in trying to detect overprescribing of opioids.
 
 ### Opioid Death Rates, adjusted for age and population.
 ![IMAGE](maps.png)
 
+
+
+Sources:
 The open dataset from data.gov can be found here:[dataset](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015)
