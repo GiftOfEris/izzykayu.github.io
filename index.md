@@ -40,9 +40,9 @@ _This project uses multiple government open data sets_
 ### State Opioid Death Rates, adjusted for age and population.
 ![IMAGE](maps.png)
 
-![](Screen Shot 2017-12-24 at 7.48.48 AM.png)
+![](.png)
 
 
 **Sources:**
-[CDC DATA SET]
+[CDC DRUG OVERDOSE DATASET](https://www.cdc.gov/drugoverdose/data/statedeaths.html)
 [open gov dataset here](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015)
