@@ -7,7 +7,6 @@ Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :g
 Calendar Heat map of Accidental Drug Deaths from 2012 - 2016 in CT
 
 ![](mapwithcoveragelevel.png)
-Mapping dental "can't afford" tweets with medicaid dental coverage levels
 
 ### Data is everywhere, let's see how we can learn more about human health through various datasets!
 ### TEAM PROJECTS:
