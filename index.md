@@ -1,4 +1,4 @@
-### Welcome
+### Welcome to izzykayu's github homepage
 Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [linkedin](https://www.linkedin.com/in/isabelmetzger) :camera: instagram:[@datavizgirls](https://www.instagram.com/datavizgirls/)
 
 ### Some dataviz examples
