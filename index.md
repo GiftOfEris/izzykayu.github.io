@@ -2,7 +2,7 @@
 Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [linkedin](https://www.linkedin.com/in/isabelmetzger) :camera: instagram:[@datavizgirls](https://www.instagram.com/datavizgirls/)
 
 ### Some dataviz examples
-[Heat map of Accidental Drug Deaths from 2012 - 2016](calendar.png)
+![Heat map of Accidental Drug Deaths from 2012 - 2016](calendar.png)
 
 ![IMAGE](mapwithcoveragelevel.png)
 
