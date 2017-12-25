@@ -4,10 +4,11 @@ Beginner Data Scientist :crystal_ball: Creative and Passionate :pencil: Futurist
 
 ### Some dataviz examples
 ![IMAGE](calendar.png)
-_Calendar Heat map of Accidental Drug Deaths from 2012 - 2016 in CT_
+Calendar Heat map of Drug Deaths from 2012 - 2016 in CT
 
 ![IMAGE](mapwithcoveragelevel.png)
-_Mapping dental "can't afford" tweets from pilot study against medicaid coverage levels_
+
+Mapping dental "can't afford" tweets from pilot study against medicaid coverage levels
 
 Oh, and this is me!
 ![IMAGE](doraemon.png)
