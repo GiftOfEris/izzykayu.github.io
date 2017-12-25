@@ -45,5 +45,5 @@ _This project uses multiple government open data sets_
 [Click here to see How I prepared this data and made these plots](https://github.com/izzykayu/izzykayu.github.io/blob/master/graphsglimpse.pdf)
 
 **Sources:**
-[CDC Drug Overdose Dataset](https://www.cdc.gov/drugoverdose/data/statedeaths.html)
+[CDC Drug Overdose Dataset](https://www.cdc.gov/drugoverdose/data/statedeaths.html),
 [CT Accidental Drug Deaths Dataset](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015)
