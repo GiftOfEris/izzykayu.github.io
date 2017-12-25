@@ -1,6 +1,5 @@
 ### Welcome
-Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [linkedin](https://www.linkedin.com/in/isabel-metzger-53675366/)
-[instagram:](https://www.instagram.com/datavizgirls/) @datavizgirls
+Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [linkedin](https://www.linkedin.com/in/isabel-metzger-53675366/) :camera: instagram:[@datavizgirls](https://www.instagram.com/datavizgirls/) @datavizgirls
 
 ### Some dataviz examples
 ![IMAGE](calendar.png)
