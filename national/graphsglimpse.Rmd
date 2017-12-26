@@ -250,7 +250,7 @@ DFDF %>% ggplot(aes(numbers, Percentage)) +
        x="    2013-2014                                                2014-2015", 
        title="% Change in Opioid Death Rates ") + ylim(-70,150) 
 ```
-![IMAGE](plot5.jpg)
+![IMAGE](plot3.jpg)
 
 ```{r creating means for deathsranges plot, message=FALSE, warning=FALSE}
 
@@ -281,23 +281,7 @@ unique(df) %>% ggplot(aes(x=reorder(name,Deaths),y=Deaths, fill=Year)) +
         theme(axis.text = element_text(hjust = 1, size=7, angle=1)) + 
   scale_fill_manual(values=c("#ce1256", "#980043", "#67001f"))
 ```
-
-
-```{r ovedosegrid creation just grid , include=FALSE}
-overdosegrid <- fullopioiddeathset_2013_2015 %>% merge(stategrid, by="state")
-symbols(overdosegrid$x, overdosegrid$ysideup,
-        squares = rep(1, dim(overdosegrid)[1]),
-        inches=FALSE,
-        asp=1,
-        bty="n",
-        xaxt="n", yaxt="n",
-        xlab="", ylab="",
-        bg=overdosegrid$col,
-        fg="#ffffff")
-labeltext <- paste(overdosegrid$state, "\n", format(overdosegrid$Rate.2015, 2), sep="")
-text(overdosegrid$x, overdosegrid$ysideup, labeltext, cex=.6, col="black")
-```
-![IMAGE](plot3.jpg)
+![IMAGE](plot5.jpg)
 
 ```{r histogram of death rate in 2015}
 hist(overdosegrid$Rate.2015, col="darkred")
