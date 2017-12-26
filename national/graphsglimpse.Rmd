@@ -247,7 +247,7 @@ DFDF %>% ggplot(aes(numbers, Percentage)) +
        x="    2013-2014                                                2014-2015", 
        title="% Change in Opioid Death Rates ") + ylim(-70,150) 
 ```
-![IMAGE](plot3.jpg)
+![IMAGE](change.png)
 
 ```{r creating means for deathsranges plot, message=FALSE, warning=FALSE}
 
