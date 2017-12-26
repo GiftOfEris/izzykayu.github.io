@@ -166,7 +166,6 @@ op2 <- longset %>% gather(Rate.2013,Rate.2014,Rate.2015, key="yr",
         axis.title = element_text(size=9))
 
 multiplot(op2, op1, cols=2)
-
 ```
 ![IMAGE](op2op1.jpg)
 
@@ -177,7 +176,6 @@ stategrid <- read.csv("state-grid-coordinates.tsv", stringsAsFactors = FALSE, se
 stategrid$ysideup <- 12 - stategrid$y
 fullopioiddeathset_2013_2015$population <- 
   as.numeric(fullopioiddeathset_2013_2015$population)
-
 ```
 ![IMAGE](changeplot.jpg)
 
@@ -283,7 +281,6 @@ unique(df) %>% ggplot(aes(x=reorder(name,Deaths),y=Deaths, fill=Year)) +
   scale_fill_manual(values=c("#ce1256", "#980043", "#67001f"))
 ```
 ![IMAGE](plot3.jpg)
-
 ```{r ovedosegrid creation just grid , include=FALSE}
 overdosegrid <- fullopioiddeathset_2013_2015 %>% merge(stategrid, by="state")
 symbols(overdosegrid$x, overdosegrid$ysideup,
@@ -345,9 +342,7 @@ col=c("#df65b0", "#e7298a", "#ce1256", "#980043", "#67001f"),
 border="#ffffff", lwd=1)
 text(c(.45, .5, .55, .6)-.03, c(0,0,0,0)+.1, labels = 
        c("10", "15", "20", "25"), pos=3, cex=.8)
-
 ```
-
 ```{r map of 2015 opioid death rates}
 #creating colors with death rates from 2015
 overdosegrid$col <- sapply(overdosegrid$Rate.2015, function(x) {
