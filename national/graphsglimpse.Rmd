@@ -110,7 +110,7 @@ Changeplot <- fullopioiddeathset_2013_2015 %>%
  
  Changeplot 
  ```
-  ![IMAGE](screenshot_x.jpg)
+  ![IMAGE](screenshot_x.png)
   
 ```{r}
 deathrate2013.plot <- fullopioiddeathset_2013_2015 %>% 
