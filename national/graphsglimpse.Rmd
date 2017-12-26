@@ -168,7 +168,7 @@ op2 <- longset %>% gather(Rate.2013,Rate.2014,Rate.2015, key="yr",
 multiplot(op2, op1, cols=2)
 
 ```
-![IMAGE](dotplots.jpg)
+![IMAGE](op2op1.jpg)
 
 ```{r rates stategrid building}
 rates1 <- longset %>% gather(Rate.2013,Rate.2014,Rate.2015, key="yr", value="Rate")
@@ -180,6 +180,7 @@ fullopioiddeathset_2013_2015$population <-
 
 ```
 ![IMAGE](changeplot.jpg)
+
 ```{r population vs deaths size by rates}
 fullopioiddeathset_2013_2015 %>% ggplot(aes(population, Deaths.2015)) + 
   geom_point(aes(size=Rate.2015, col=region), alpha=0.5) + theme_classic() + 
@@ -302,10 +303,8 @@ text(overdosegrid$x, overdosegrid$ysideup, labeltext, cex=.6, col="black")
 
 ```{r histogram of death rate in 2015}
 hist(overdosegrid$Rate.2015, col="darkred")
-
 ```
-
-![IMAGE](changeplot.jpg)
+![IMAGE](histogram.jpg)
 
 ```{r creating colors and map for Rate.2013}
 overdosegrid$col <- sapply(overdosegrid$Rate.2013, function(x) {
