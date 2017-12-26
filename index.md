@@ -43,11 +43,11 @@ _This project uses multiple government open data sets_
 When Opioid Deaths are adjusted for age and population, we can see that West Virginia currently has the highest rates of Opioid Overdose Deaths not only in the South, but for all states. In the Northeast, New Hampshire and Rhode Island have the highest Opioid Overdose Death Rates.
 ![IMAGE](BoxPlots_Year_Rates.png)
 
-#### Opioid Death Rates by Year and t-test p-values.
+#### Opioid Death Rates by Year Compared with t-test p-values.
 ![IMAGE](.png)
-#### What states have significant Change in Opioid Death Rates? Do these states lack resources.
->Predictive modeling for the greater good
-![IMAGE](.png)
+#### What states have significant Change in Opioid Death Rates? Can we find novel ways in machine learning to save lives?
+Predictive modeling for the greater good :small_blue_diamond:
+![IMAGE](OpioidDeathRatesboxplot.png)
 #### Opioid Death Rates, adjusted for age and population, Region sums, 2013-2015.
 ![IMAGE](.png)
 
