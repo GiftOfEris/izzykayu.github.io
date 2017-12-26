@@ -1,0 +1,23 @@
+---
+title: "R Notebook on National Opioid Death Simple EDA"
+output:
+  pdf_document: default
+  html_notebook: default
+---
+## ISABEL METZGER
+_Making graphs used in glimpse of US opioid deaths/ state rates - Exploratory Data Analaysis_
+```{r, include=FALSE, message=FALSE, warning=FALSE}
+library(readr)
+X2015_death_data <- read_csv("2015-death-data.csv")
+Xdeath_2013_2014 <- read_csv("drug_poisoning_deaths_by_state-_us_2013_2014-v7.csv")
+mycols3 <- c("#c6d4e1", "#2f2016", "#fcfaea", "#456789")
+library(tidyverse)
+library(tidytext)
+library(stringr)
+library(DT)
+death2015 <- X2015_death_data %>% dplyr::select(-X5, -X6, -X7, -X8)
+colnames(death2015) <- c("state", "Range.2015", "Rate.2015", "Deaths.2015")
+colnames(Xdeath_2013_2014) <- c("state", "Rate.2014", "Deaths.2014", "Range.2014",
+                                "Rate.2013", "Deaths.2013", "Range.2013", "Change",
+                                "Significant")
+```
