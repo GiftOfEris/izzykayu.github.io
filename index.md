@@ -34,7 +34,7 @@ team members: Isabel Metzger, Lorel Burns, DDS, Ana Raghunath
 We as clinicians and health data scientists need to assume some responsibility for moving the field in a direction where clinicians are better trained to prevent and recognize drug abuse, and drug death, especially when working in resource-strapped communities. My community deserves this. **Every community deserves this.**
 
 _This project uses multiple government open data sets_
-1. Glimpse of current US trends in overdose deaths and opioid use.
+1. **NATIONAL SNAPSHOT**: Glimpse of current US trends in opioid overdose death rates.
 2. Machine Learning Prediction Model: heroin death vs accidental drug death with no heroin found in the body.
 3. Additionally, I provide some analysis in trying to detect overprescribing of opioids.
 ## NATIONAL SNAPSHOT
