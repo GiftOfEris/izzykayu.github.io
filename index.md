@@ -1,5 +1,6 @@
 ### Welcome to izzykayu's github homepage
-<p>Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [linkedin](https://www.linkedin.com/in/isabelmetzger)<p> :camera: instagram:[@datavizgirls](https://www.instagram.com/datavizgirls/)
+<p>Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](isabel.metzger@nyumc.org) or [linkedin](https://www.linkedin.com/in/isabelmetzger) <p>
+:camera: instagram:[@datavizgirls](https://www.instagram.com/datavizgirls/)
 
 ### Some dataviz examples
 >Heat map of Accidental Drug Deaths from 2012 - 2016
