@@ -102,14 +102,14 @@ multiplot(rawcounts.13.15.plot, rate.13.15.plot, cols=2)
 ![IMAGE](plot1.jpg)
 
 ```{r creating change plot and other deathrate plots}
-Changeplot <-fullopioiddeathset_2013_2015 %>% 
+Changeplot <- fullopioiddeathset_2013_2015 %>% 
   ggplot(aes(name, Change, fill=region)) + geom_col() + 
   labs(x="", y="Opioid Death Rate Change", 
        title="Percentage Change in Opioid Death Rates from 2013 to 2014") +
         theme(axis.text = element_text(hjust = 1, size=7, angle=90)) +
   scale_fill_manual(values=cols) + theme_hc()
 
-deathrate2013.plot <-fullopioiddeathset_2013_2015 %>% 
+deathrate2013.plot <- fullopioiddeathset_2013_2015 %>% 
   ggplot(aes(state, Rate.2013, col=region))  + 
   geom_point(alpha=0.42,aes(size=Rate.2014)) + coord_flip() +
   labs(x="", y="Opioid Death Rate", 
@@ -251,7 +251,7 @@ DFDF %>% ggplot(aes(numbers, Percentage)) +
        x="    2013-2014                                                2014-2015", 
        title="% Change in Opioid Death Rates ") + ylim(-70,150) 
 ```
-![IMAGE](changeplot.jpg)
+![IMAGE](plot5.jpg)
 
 ```{r creating means for deathsranges plot, message=FALSE, warning=FALSE}
 my_mean=aggregate(longset$Deaths, by=list(longset$region), mean) ; colnames(my_mean)=
@@ -271,7 +271,7 @@ deathsranges <- ggplot(longset) +
 deathsranges
 
 ```
-![IMAGE](changeplot.jpg)
+![IMAGE](plot4.jpg)
 
 ```{r opioid deaths different color scheme, message=FALSE, warning=FALSE}
 df <- longset %>% dplyr::select(name, Year, region, Deaths)
@@ -281,9 +281,8 @@ unique(df) %>% ggplot(aes(x=reorder(name,Deaths),y=Deaths, fill=Year)) +
   coord_flip() + theme_classic() +
         theme(axis.text = element_text(hjust = 1, size=7, angle=1)) + 
   scale_fill_manual(values=c("#ce1256", "#980043", "#67001f"))
-
 ```
-![IMAGE](changeplot.jpg)
+![IMAGE](plot3.jpg)
 
 ```{r ovedosegrid creation just grid , include=FALSE}
 overdosegrid <- fullopioiddeathset_2013_2015 %>% merge(stategrid, by="state")
@@ -299,8 +298,6 @@ symbols(overdosegrid$x, overdosegrid$ysideup,
 labeltext <- paste(overdosegrid$state, "\n", format(overdosegrid$Rate.2015, 2), sep="")
 text(overdosegrid$x, overdosegrid$ysideup, labeltext, cex=.6, col="black")
 ```
-![IMAGE](changeplot.jpg)
-
 ```{r histogram of death rate in 2015}
 hist(overdosegrid$Rate.2015, col="darkred")
 ```
