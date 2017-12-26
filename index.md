@@ -1,5 +1,5 @@
 ### Welcome to izzykayu's github homepage
-Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [linkedin](https://www.linkedin.com/in/isabelmetzger) :camera: instagram:[@datavizgirls](https://www.instagram.com/datavizgirls/)
+<p>Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: Always trying to learn more :sparkles: You can reach me at [isabel.metzger@nyumc.org](url) or [linkedin](https://www.linkedin.com/in/isabelmetzger)<p> :camera: instagram:[@datavizgirls](https://www.instagram.com/datavizgirls/)
 
 ### Some dataviz examples
 >Heat map of Accidental Drug Deaths from 2012 - 2016
@@ -26,11 +26,10 @@ team members: Isabel Metzger, Lorel Burns, DDS, Ana Raghunath
 1. DaniBot _(Chatbot based off my best friend Danielle because she is hilarious)_
 
 ## Data Visualization and Exploratory Data Analysis
-# REAL TALK. Opioids
+# REAL TALK: Opioids
 <p>Growing up in a working-class community where drugs offered comfort to many, I witnessed relatives and friends struggle with drug addiction, some until it killed them. By the time I turned 21, my uncle had died of Hepatitis C, contracted through needle sharing, and three of my friends had fatally overdosed on opiates. These losses forced me to confront the complexity of pharmacology at an early age—that drugs designed to maximize health often contribute to the undoing of vulnerable lives.<p>
 
-### AND ACTUALLY THOUGH
-We as clinicians and health data scientists need to assume some responsibility for moving the field in a direction where clinicians are better trained to prevent and recognize drug abuse, and drug death, especially when working in resource-strapped communities. My community deserves this. **Every community deserves this.**
+<p>We as clinicians and health data scientists need to assume some responsibility for moving the field in a direction where clinicians are better trained to prevent and recognize drug abuse, and drug death, especially when working in resource-strapped communities. My community deserves this. **Every community deserves this.**<p>
 
 _This project uses multiple government open data sets_
 1. Glimpse of current US trends in overdose deaths and opioid use.
