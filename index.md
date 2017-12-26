@@ -43,6 +43,7 @@ _This project uses multiple government open data sets_
 ![IMAGE](DeathRatesByRegion.png)
 
 **How I prepared the data and made these plots** :bar_chart:
+
 [pdf format](https://github.com/izzykayu/izzykayu.github.io/blob/master/national/graphsglimpse.pdf)
 
 [rmarkdown file](https://github.com/izzykayu/izzykayu.github.io/blob/master/national/graphsglimpse.Rmd)
