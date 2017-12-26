@@ -48,7 +48,7 @@ When Opioid Deaths are adjusted for age and population, we can see that West Vir
 #### What states have significant Change in Opioid Death Rates? Can we find novel ways in machine learning to save lives?
 Predictive modeling for the greater good :small_blue_diamond:
 ![IMAGE](OpioidDeathRatesboxplot.png)
-#### Opioid Death Rates, adjusted for age and population, Region sums, 2013-2015.
+#### Summary Statistics on US Regions and Opioid Death
 ![IMAGE](.png)
 
 **How I prepared the data and made these plots** :bar_chart: **Additionally, these links provide more information**
