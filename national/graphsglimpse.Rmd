@@ -267,7 +267,7 @@ deathsranges <- ggplot(longset) +
   ggtitle("Range of Opioid Deaths by US Demographic Region, 2013-2015") + theme_bw()
 deathsranges
 ```
-![IMAGE](summarystatsregionsplot.png)
+![IMAGE](box.png)
 
 ```{r opioid deaths different color scheme, message=FALSE, warning=FALSE}
 df <- longset %>% dplyr::select(name, Year, region, Deaths)
