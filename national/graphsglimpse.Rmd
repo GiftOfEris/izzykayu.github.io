@@ -146,7 +146,6 @@ deathrate2014.plot <-fullopioiddeathset_2013_2015 %>%
                size=0.1) 
 
 multiplot(deathrate2013.plot, deathrate2014.plot, cols=2)
-
 ```
 ![IMAGE](dotplots.jpg)
 
@@ -166,10 +165,12 @@ op2 <- longset %>% gather(Rate.2013,Rate.2014,Rate.2015, key="yr",
   labs(subtitle="Opioid Death Rate vs Opioid Deaths") + 
   theme(axis.text = element_text(hjust = 1, size=6.7), 
         axis.title = element_text(size=9))
-
-multiplot(op2, op1, cols=2)
+op2
+op1
 ```
-![IMAGE](op2op1.jpg)
+![IMAGE](.jpg)
+
+![IMAGE](.jpg)
 
 ```{r rates stategrid building}
 rates1 <- longset %>% gather(Rate.2013,Rate.2014,Rate.2015, key="yr", value="Rate")
@@ -252,6 +253,7 @@ DFDF %>% ggplot(aes(numbers, Percentage)) +
 ![IMAGE](plot5.jpg)
 
 ```{r creating means for deathsranges plot, message=FALSE, warning=FALSE}
+
 my_mean=aggregate(longset$Deaths, by=list(longset$region), mean) ; colnames(my_mean)=
   c("region" , "mean")
 my_sd=aggregate(longset$Deaths, by=list(longset$region), sd) ; colnames(my_sd)=
@@ -267,7 +269,6 @@ deathsranges <- ggplot(longset) +
                       colour = rgb(0.4,0.8,0.2,0.4) , width = 0.7 , size=1.5) + 
   ggtitle("Range of Opioid Deaths by US Demographic Region, 2013-2015") + theme_bw()
 deathsranges
-
 ```
 ![IMAGE](plot4.jpg)
 
@@ -280,7 +281,7 @@ unique(df) %>% ggplot(aes(x=reorder(name,Deaths),y=Deaths, fill=Year)) +
         theme(axis.text = element_text(hjust = 1, size=7, angle=1)) + 
   scale_fill_manual(values=c("#ce1256", "#980043", "#67001f"))
 ```
-![IMAGE](plot3.jpg)
+
 
 ```{r ovedosegrid creation just grid , include=FALSE}
 overdosegrid <- fullopioiddeathset_2013_2015 %>% merge(stategrid, by="state")
@@ -296,6 +297,8 @@ symbols(overdosegrid$x, overdosegrid$ysideup,
 labeltext <- paste(overdosegrid$state, "\n", format(overdosegrid$Rate.2015, 2), sep="")
 text(overdosegrid$x, overdosegrid$ysideup, labeltext, cex=.6, col="black")
 ```
+![IMAGE](plot3.jpg)
+
 ```{r histogram of death rate in 2015}
 hist(overdosegrid$Rate.2015, col="darkred")
 ```
@@ -345,6 +348,7 @@ text(c(.45, .5, .55, .6)-.03, c(0,0,0,0)+.1, labels =
        c("10", "15", "20", "25"), pos=3, cex=.8)
 ```
 ```{r map of 2015 opioid death rates}
+
 #creating colors with death rates from 2015
 overdosegrid$col <- sapply(overdosegrid$Rate.2015, function(x) {
       if (x < 10) {
