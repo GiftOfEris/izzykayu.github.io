@@ -98,7 +98,7 @@ multiplot <- function(..., plotlist = NULL, file, cols = 1, layout = NULL) {
 
 multiplot(rawcounts.13.15.plot, rate.13.15.plot, cols=2)
 ```
-![IMAGE](plot1.jpg)
+![IMAGE](11.16.30.PM.png)
 
 ```{r creating change plot 2013.2014}
 Changeplot <- fullopioiddeathset_2013_2015 %>% 
