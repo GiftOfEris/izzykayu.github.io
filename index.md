@@ -37,7 +37,7 @@ _This project uses multiple government open data sets_
 1. **NATIONAL SNAPSHOT**: Glimpse of current US trends in opioid overdose death rates.
 2. Machine Learning Prediction Model: heroin death vs accidental drug death with no heroin found in the body.
 3. Additionally, I provide some analysis in trying to detect overprescribing of opioids.
-## NATIONAL SNAPSHOT
+### 1. NATIONAL SNAPSHOT
 #### State Opioid Death Rates, adjusted for age and population.
 ![IMAGE](maps.png)
 #### Opioid Death Rates, adjusted for age and population, Region sums, 2013-2015.
