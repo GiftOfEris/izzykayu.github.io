@@ -97,18 +97,20 @@ multiplot <- function(..., plotlist = NULL, file, cols = 1, layout = NULL) {
 }
 
 multiplot(rawcounts.13.15.plot, rate.13.15.plot, cols=2)
-
 ```
 ![IMAGE](plot1.jpg)
 
-```{r creating change plot and other deathrate plots}
+```{r creating change plot 2013.2014}
 Changeplot <- fullopioiddeathset_2013_2015 %>% 
   ggplot(aes(name, Change, fill=region)) + geom_col() + 
   labs(x="", y="Opioid Death Rate Change", 
        title="Percentage Change in Opioid Death Rates from 2013 to 2014") +
         theme(axis.text = element_text(hjust = 1, size=7, angle=90)) +
   scale_fill_manual(values=cols) + theme_hc()
-
+ ```
+  ![IMAGE](changeplot.jpg)
+  
+```{r}
 deathrate2013.plot <- fullopioiddeathset_2013_2015 %>% 
   ggplot(aes(state, Rate.2013, col=region))  + 
   geom_point(alpha=0.42,aes(size=Rate.2014)) + coord_flip() +
@@ -142,11 +144,9 @@ deathrate2014.plot <-fullopioiddeathset_2013_2015 %>%
                size=0.1) 
 
 multiplot(deathrate2013.plot, deathrate2014.plot, cols=2)
-Changeplot
 
 ```
 ![IMAGE](dotplots.jpg)
-![IMAGE](changeplot.jpg)
 
 ```{r plot of Rates }
 op1 <- longset %>% gather(Rate.2013,Rate.2014,Rate.2015, key="yr", value="DeathRate") %>% 
