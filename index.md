@@ -12,9 +12,9 @@ Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :g
 
 #### TEAM PROJECTS:
 team members: _Isabel Metzger, Lorel Burns, DDS, Ana Raghunath_
-1. [Machine Learning in Dental Radiology: Interpretation of Periapical Lesions Associated with Maxillary Molars](izzykayu.github.io/twitterdental.md)
+1. [Machine Learning in Dental Radiology: Interpretation of Periapical Lesions Associated with Maxillary Molars]
 2. [Predicting tweeter’s state insurance coverage level via tweeter's profile text and tweet text](izzykayu.github.io/twitterdental.md)
-3. [Exploring Dental Care Affordability via Twitter: A Descriptive Study](izzykayu.github.io/twitterdental.md)
+3. [Exploring Dental Care Affordability via Twitter: A Descriptive Study (power point pilot study overview)](https://github.com/izzykayu/izzykayu.github.io/blob/master/DentalTweets/DentalCareAffordabilityViaTwitterPilot.pdf)
 
 #### TERM PROJECTS:
 1. Natural Language Processing in identification of disease states in the MIMIC III dataset Medical Notes
