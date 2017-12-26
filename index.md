@@ -28,7 +28,7 @@ team members: Isabel Metzger, Lorel Burns, DDS, Ana Raghunath
 1. DaniBot _(Chatbot based off my best friend Danielle because she is hilarious)_
 
 ## Data Visualization and Exploratory Data Analysis
-# REAL TALK: Opioids
+## REAL TALK: Opioids
 <p>Growing up in a working-class community where drugs offered comfort to many, I witnessed relatives and friends struggle with drug addiction, some until it killed them. By the time I turned 21, my uncle had died of Hepatitis C, contracted through needle sharing, and three of my friends had fatally overdosed on opiates. These losses forced me to confront the complexity of pharmacology at an early age—that drugs designed to maximize health often contribute to the undoing of vulnerable lives.<p>
 
 We as clinicians and health data scientists need to assume some responsibility for moving the field in a direction where clinicians are better trained to prevent and recognize drug abuse, and drug death, especially when working in resource-strapped communities. My community deserves this. **Every community deserves this.**
@@ -37,7 +37,7 @@ _This project uses multiple government open data sets_
 1. Glimpse of current US trends in overdose deaths and opioid use.
 2. Machine Learning Prediction Model: heroin death vs accidental drug death with no heroin found in the body.
 3. Additionally, I provide some analysis in trying to detect overprescribing of opioids.
-# NATIONAL SNAPSHOT
+## NATIONAL SNAPSHOT
 #### State Opioid Death Rates, adjusted for age and population.
 ![IMAGE](maps.png)
 #### Opioid Death Rates, adjusted for age and population, Region sums, 2013-2015.
