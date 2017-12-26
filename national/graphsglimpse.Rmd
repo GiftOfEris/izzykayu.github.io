@@ -142,10 +142,12 @@ deathrate2014.plot <-fullopioiddeathset_2013_2015 %>%
                size=0.1) 
 
 multiplot(deathrate2013.plot, deathrate2014.plot, cols=2)
-
 Changeplot
 
 ```
+![IMAGE](dotplots.jpg)
+![IMAGE](changeplot.jpg)
+
 ```{r plot of Rates }
 op1 <- longset %>% gather(Rate.2013,Rate.2014,Rate.2015, key="yr", value="DeathRate") %>% 
   ggplot(aes(log(DeathRate), log(Deaths))) + geom_point(alpha=0.2) + 
@@ -166,6 +168,8 @@ op2 <- longset %>% gather(Rate.2013,Rate.2014,Rate.2015, key="yr",
 multiplot(op2, op1, cols=2)
 
 ```
+![IMAGE](dotplots.jpg)
+
 ```{r rates stategrid building}
 rates1 <- longset %>% gather(Rate.2013,Rate.2014,Rate.2015, key="yr", value="Rate")
 library(readr)
@@ -175,12 +179,15 @@ fullopioiddeathset_2013_2015$population <-
   as.numeric(fullopioiddeathset_2013_2015$population)
 
 ```
+![IMAGE](changeplot.jpg)
 ```{r population vs deaths size by rates}
 fullopioiddeathset_2013_2015 %>% ggplot(aes(population, Deaths.2015)) + 
   geom_point(aes(size=Rate.2015, col=region), alpha=0.5) + theme_classic() + 
   ggtitle("Death Counts vs Population in 2015")
 
 ```
+![IMAGE](changeplot.jpg)
+
 ```{r more data}
 longset$popoverarea <- as.numeric(longset$population)/
   as.numeric(longset$area)
@@ -243,6 +250,8 @@ DFDF %>% ggplot(aes(numbers, Percentage)) +
        x="    2013-2014                                                2014-2015", 
        title="% Change in Opioid Death Rates ") + ylim(-70,150) 
 ```
+![IMAGE](changeplot.jpg)
+
 ```{r creating means for deathsranges plot, message=FALSE, warning=FALSE}
 my_mean=aggregate(longset$Deaths, by=list(longset$region), mean) ; colnames(my_mean)=
   c("region" , "mean")
@@ -261,6 +270,8 @@ deathsranges <- ggplot(longset) +
 deathsranges
 
 ```
+![IMAGE](changeplot.jpg)
+
 ```{r opioid deaths different color scheme, message=FALSE, warning=FALSE}
 df <- longset %>% dplyr::select(name, Year, region, Deaths)
 unique(df) %>% ggplot(aes(x=reorder(name,Deaths),y=Deaths, fill=Year)) + 
@@ -271,6 +282,8 @@ unique(df) %>% ggplot(aes(x=reorder(name,Deaths),y=Deaths, fill=Year)) +
   scale_fill_manual(values=c("#ce1256", "#980043", "#67001f"))
 
 ```
+![IMAGE](changeplot.jpg)
+
 ```{r ovedosegrid creation just grid , include=FALSE}
 overdosegrid <- fullopioiddeathset_2013_2015 %>% merge(stategrid, by="state")
 symbols(overdosegrid$x, overdosegrid$ysideup,
@@ -285,10 +298,15 @@ symbols(overdosegrid$x, overdosegrid$ysideup,
 labeltext <- paste(overdosegrid$state, "\n", format(overdosegrid$Rate.2015, 2), sep="")
 text(overdosegrid$x, overdosegrid$ysideup, labeltext, cex=.6, col="black")
 ```
+![IMAGE](changeplot.jpg)
+
 ```{r histogram of death rate in 2015}
 hist(overdosegrid$Rate.2015, col="darkred")
 
 ```
+
+![IMAGE](changeplot.jpg)
+
 ```{r creating colors and map for Rate.2013}
 overdosegrid$col <- sapply(overdosegrid$Rate.2013, function(x) {
       if (x < 10) {
@@ -333,6 +351,7 @@ text(c(.45, .5, .55, .6)-.03, c(0,0,0,0)+.1, labels =
        c("10", "15", "20", "25"), pos=3, cex=.8)
 
 ```
+
 ```{r map of 2015 opioid death rates}
 #creating colors with death rates from 2015
 overdosegrid$col <- sapply(overdosegrid$Rate.2015, function(x) {
@@ -377,6 +396,9 @@ border="#ffffff", lwd=1)
 text(c(.45, .5, .55, .6)-.03, c(0,0,0,0)+.1, labels = c("10", "15", "20", "25"), pos=3, cex=.8)
 mtext("Opioid Death Rates 2015", side = 2, line = -2.5, cex=1.9, outer = T, col="#27223C")
 ```
+![IMAGE](plot2013map.jpg)
+![IMAGE](plot2015map.jpg)
+
 ```{r dpi=300}
 library(tidyverse)
 alluv <- longset %>% dplyr::group_by(highdense, region, Significant) %>% tally()
@@ -389,3 +411,4 @@ alluvial(alluv[1:3], freq=alluv$n, alpha=0.68, xw=0.2,cex.axis=0.8,
          cex = 0.6, blocks=T, border="white",col = 
            ifelse(alluv$Change.13.14 == "Significant", "maroon", "grey"))
 ```
+![IMAGE](alluv.jpg)
