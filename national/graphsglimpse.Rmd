@@ -186,7 +186,7 @@ fullopioiddeathset_2013_2015 %>% ggplot(aes(population, Deaths.2015)) +
   geom_point(aes(size=Rate.2015, col=region), alpha=0.5) + theme_classic() + 
   ggtitle("Death Counts vs Population in 2015")
 ```
-![IMAGE](changeplot.jpg)
+![IMAGE](deathcountsvspopln.png)
 
 ```{r more data}
 longset$popoverarea <- as.numeric(longset$population)/
