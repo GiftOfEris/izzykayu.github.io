@@ -39,13 +39,17 @@ _This project uses multiple government open data sets_
 ### 1. NATIONAL SNAPSHOT
 #### State Opioid Death Rates, adjusted for age and population.
 ![IMAGE](maps.png)
+#### % Change in Opioid Death Rates in States from 2013 to 2014 and 2014 to 2015.
+![IMAGE](.png)
 #### Opioid Death Rates, adjusted for age and population, Region sums, 2013-2015.
-![IMAGE](DeathRatesByRegion.png)
+![IMAGE](D.png)
+#### Opioid Death Rates, adjusted for age and population, Region sums, 2013-2015.
+![IMAGE](.png)
+#### Opioid Death Rates, adjusted for age and population, Region sums, 2013-2015.
+![IMAGE](.png)
 
-**How I prepared the data and made these plots** :bar_chart:
-
-[pdf format](https://github.com/izzykayu/izzykayu.github.io/blob/master/national/graphsglimpse.pdf)
-
+**How I prepared the data and made these plots** :bar_chart: **Additionally, these links provide more information**
+[pdf format](https://github.com/izzykayu/izzykayu.github.io/blob/master/national/graphsglimpse.pdf),
 [rmarkdown file](https://github.com/izzykayu/izzykayu.github.io/blob/master/national/graphsglimpse.Rmd)
 
 **Sources:**
