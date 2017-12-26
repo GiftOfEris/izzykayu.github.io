@@ -168,7 +168,7 @@ op2 <- longset %>% gather(Rate.2013,Rate.2014,Rate.2015, key="yr",
 op2
 op1
 ```
-![IMAGE](.jpg)
+![IMAGE](PM.png)
 
 ![IMAGE](logscale.png)
 
