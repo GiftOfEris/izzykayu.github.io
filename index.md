@@ -40,7 +40,7 @@ _This project uses multiple government open data sets_
 #### State Opioid Death Rates, adjusted for age and population.
 ![IMAGE](maps.png)
 #### Change in Opioid Death Rates in States from 2013 - 2014. 
-When Opioid Deaths are adjusted for age and population, we can see that West Virginia currently has the highest rates of Opioid Overdose Deaths not only in the South, but for all states. In the Northeast, New Hampshire and Rhode Island have the highest Opioid Overdose Death Rates.
+>When Opioid Deaths are adjusted for age and population, we can see that West Virginia currently has the highest rates of Opioid Overdose Deaths not only in the South, but for all states. In the Northeast, New Hampshire and Rhode Island have the highest Opioid Overdose Death Rates.
 ![IMAGE](BoxPlots_Year_Rates.png)
 
 #### Opioid Death Rates by Year Compared with t-test p-values.
