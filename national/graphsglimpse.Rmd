@@ -147,7 +147,7 @@ deathrate2014.plot <-fullopioiddeathset_2013_2015 %>%
 
 multiplot(deathrate2013.plot, deathrate2014.plot, cols=2)
 ```
-![IMAGE](dotplots.jpg)
+![IMAGE](dot.png)
 
 ```{r plot of Rates }
 op1 <- longset %>% gather(Rate.2013,Rate.2014,Rate.2015, key="yr", value="DeathRate") %>% 
