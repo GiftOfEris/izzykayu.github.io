@@ -278,7 +278,7 @@ unique(df) %>% ggplot(aes(x=reorder(name,Deaths),y=Deaths, fill=Year)) +
         theme(axis.text = element_text(hjust = 1, size=7, angle=1)) + 
   scale_fill_manual(values=c("#ce1256", "#980043", "#67001f"))
 ```
-![IMAGE](plot5.jpg)
+![IMAGE](PiNK.png)
 
 ```{r histogram of death rate in 2015}
 hist(overdosegrid$Rate.2015, col="darkred")
