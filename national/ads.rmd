@@ -21,3 +21,80 @@ colnames(Xdeath_2013_2014) <- c("state", "Rate.2014", "Deaths.2014", "Range.2014
                                 "Rate.2013", "Deaths.2013", "Range.2013", "Change",
                                 "Significant")
 ```
+
+```{r, message=FALSE, warning=FALSE}
+library(noncensus)
+data("states")
+overdosedeath <- death2015 %>% 
+  left_join(states, by="state")
+fullopioiddeathset_2013_2015 <- overdosedeath %>% 
+  right_join(Xdeath_2013_2014)
+library(ggthemes)
+# re-order levels
+reorder_size <- function(x) {
+        factor(x, levels = names(sort(table(x), decreasing = TRUE)))
+}
+# creating new dataframe
+longset <- fullopioiddeathset_2013_2015 %>% 
+  gather(Deaths.2013,Deaths.2014,Deaths.2015, 
+         key="Year", value="Deaths")
+```
+
+```{r plots of DeathRates}
+theme_set(theme_classic())
+cov.cols <-c("#9D1F2F","#d6604d", "#92c5de","#0571b0")
+cols <-c('#520B44', '#C61859', '#EC8F02', '#F9D100') #99A711"#9D1F2F","#d6604d", "#92c5de","#0571b0")
+longset$year <- longset$Year
+longset$Year <- gsub("Deaths.2013", 2013, longset$Year)
+longset$Year <- gsub("Deaths.2014", 2014, longset$Year)
+longset$Year <- gsub("Deaths.2015", 2015, longset$Year)
+ res <- longset %>% dplyr::select(Year, Deaths, region)
+ res$region <- as.character(res$region)
+ res$Year <- as.numeric(res$Year)
+  colnames(res) <- c("Year", "Opioid.Deaths", "Region")
+
+rate.13.15.plot <- longset %>% gather(Rate.2013,Rate.2014,Rate.2015, key="yr", value="Rate") %>% 
+  mutate(name=reorder(name, Rate)) %>% ggplot(aes(name, Rate, fill=Year)) + geom_col() + 
+  scale_fill_manual(values=c("#774F38", mycols3)) + 
+  theme_classic() + coord_flip() + 
+  labs(x="", y="Opioid Death Rate", subtitle="Age + popln adjusted Death Rates") +
+        # theme(axis.text.y = element_blank(), axis.ticks.y = element_blank(),
+                theme(axis.text = element_text(hjust = 1, size=6.7, angle=20), axis.title = element_text(size=9), legend.position = "none") 
+
+rawcounts.13.15.plot <- longset %>% mutate(name=reorder(name, Deaths))%>% 
+  ggplot(aes(name, Deaths, fill=Year)) + geom_col() + scale_fill_manual(values=c("#774F38", mycols3)) + 
+  theme_classic() + coord_flip() + labs(x="State", y="Opioid Death Raw Counts", subtitle="Opioid Death Counts") +
+        theme(axis.text = element_text(hjust = 1, size=6.7, angle=20), axis.title = element_text(size=9), legend.position = "none") 
+```
+```{r multiplot function}
+multiplot <- function(..., plotlist = NULL, file, cols = 1, layout = NULL) {
+  require(grid)
+
+  plots <- c(list(...), plotlist)
+
+  numPlots = length(plots)
+
+  if (is.null(layout)) {
+    layout <- matrix(seq(1, cols * ceiling(numPlots/cols)),
+                    ncol = cols, nrow = ceiling(numPlots/cols))
+  }
+
+  if (numPlots == 1) {
+    print(plots[[1]])
+
+  } else {
+    grid.newpage()
+    pushViewport(viewport(layout = grid.layout(nrow(layout), ncol(layout))))
+
+    for (i in 1:numPlots) {
+      matchidx <- as.data.frame(which(layout == i, arr.ind = TRUE))
+
+      print(plots[[i]], vp = viewport(layout.pos.row = matchidx$row,
+                                      layout.pos.col = matchidx$col))
+    }
+  }
+}
+jpeg('plot1.jpg')
+multiplot(rawcounts.13.15.plot, rate.13.15.plot, cols=2)
+dev.off()
+```
