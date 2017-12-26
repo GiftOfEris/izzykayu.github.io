@@ -10,7 +10,6 @@ Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :g
 >Twitter Map using Google Maps Geolocation API
 ![IMAGE](mapwithcoveragelevel.png)
 
-### Data is everywhere, let's see how we can learn more about human health through various datasets!
 #### TEAM PROJECTS:
 team members: _Isabel Metzger, Lorel Burns, DDS, Ana Raghunath_
 1. [Machine Learning in Dental Radiology: Interpretation of Periapical Lesions Associated with Maxillary Molars](izzykayu.github.io/twitterdental.md)
@@ -44,7 +43,7 @@ _This project uses multiple government open data sets_
 ![IMAGE](DeathRatesByRegion.png)
 
 [Click here to see How I prepared this data and made these plots (pdf)! :bar_chart:](https://github.com/izzykayu/izzykayu.github.io/blob/master/graphsglimpse.pdf)
-[rmarkdown file :mag_right:]
+[rmarkdown file :mag_right:](https://github.com/izzykayu/izzykayu.github.io/blob/master/graphsglimpse.pdf)
 **Sources:**
 [CDC Drug Overdose Dataset](https://www.cdc.gov/drugoverdose/data/statedeaths.html),
 [CT Accidental Drug Deaths Dataset](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015)
