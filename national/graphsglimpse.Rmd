@@ -110,7 +110,7 @@ Changeplot <- fullopioiddeathset_2013_2015 %>%
  
  Changeplot 
  ```
-  ![IMAGE](changeplot.jpg)
+  ![IMAGE](screenshot_x.jpg)
   
 ```{r}
 deathrate2013.plot <- fullopioiddeathset_2013_2015 %>% 
@@ -250,6 +250,7 @@ DFDF %>% ggplot(aes(numbers, Percentage)) +
        title="% Change in Opioid Death Rates ") + ylim(-70,150) 
 ```
 ![IMAGE](plot5.jpg)
+
 ```{r creating means for deathsranges plot, message=FALSE, warning=FALSE}
 my_mean=aggregate(longset$Deaths, by=list(longset$region), mean) ; colnames(my_mean)=
   c("region" , "mean")
@@ -269,6 +270,7 @@ deathsranges
 
 ```
 ![IMAGE](plot4.jpg)
+
 ```{r opioid deaths different color scheme, message=FALSE, warning=FALSE}
 df <- longset %>% dplyr::select(name, Year, region, Deaths)
 unique(df) %>% ggplot(aes(x=reorder(name,Deaths),y=Deaths, fill=Year)) + 
@@ -279,6 +281,7 @@ unique(df) %>% ggplot(aes(x=reorder(name,Deaths),y=Deaths, fill=Year)) +
   scale_fill_manual(values=c("#ce1256", "#980043", "#67001f"))
 ```
 ![IMAGE](plot3.jpg)
+
 ```{r ovedosegrid creation just grid , include=FALSE}
 overdosegrid <- fullopioiddeathset_2013_2015 %>% merge(stategrid, by="state")
 symbols(overdosegrid$x, overdosegrid$ysideup,
@@ -400,3 +403,4 @@ alluvial(alluv[1:3], freq=alluv$n, alpha=0.68, xw=0.2,cex.axis=0.8,
            ifelse(alluv$Change.13.14 == "Significant", "maroon", "grey"))
 ```
 ![IMAGE](alluv.jpg)
+
