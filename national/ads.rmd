@@ -22,7 +22,7 @@ colnames(Xdeath_2013_2014) <- c("state", "Rate.2014", "Deaths.2014", "Range.2014
                                 "Significant")
 ```
 
-```{r, message=FALSE, warning=FALSE}
+```{ruby, message=FALSE, warning=FALSE}
 library(noncensus)
 data("states")
 overdosedeath <- death2015 %>% 
