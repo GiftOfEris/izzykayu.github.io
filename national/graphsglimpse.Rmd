@@ -170,7 +170,7 @@ op1
 ```
 ![IMAGE](.jpg)
 
-![IMAGE](.jpg)
+![IMAGE](logscale.png)
 
 ```{r rates stategrid building}
 rates1 <- longset %>% gather(Rate.2013,Rate.2014,Rate.2015, key="yr", value="Rate")
@@ -180,7 +180,6 @@ stategrid$ysideup <- 12 - stategrid$y
 fullopioiddeathset_2013_2015$population <- 
   as.numeric(fullopioiddeathset_2013_2015$population)
 ```
-
 ```{r population vs deaths size by rates}
 fullopioiddeathset_2013_2015 %>% ggplot(aes(population, Deaths.2015)) + 
   geom_point(aes(size=Rate.2015, col=region), alpha=0.5) + theme_classic() + 
@@ -222,13 +221,11 @@ fullopioiddeathset_2013_2015$Change.2013.2014 <-
 dffff <- fullopioiddeathset_2013_2015 %>% gather(Change.2013.2014, Change.2014.2015, 
                                                  key="YearChange",
                                                  val="Percentage")
-length(dffff$YearChange)
 
 n <- 5
 a<- rep(1:9, each=n)
 b <- rep(2013:2014, each=51)
 dffff$toadd<- c(a,a,1:9, 1, 2,3)
-length(dffff$toadd)
 ```
 ```{r showing percentage between years in deaths}
 dffff$numbers <- paste(b, dffff$toadd)
