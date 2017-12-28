@@ -50,7 +50,9 @@ _This project uses multiple government open data sets_
 #### Summary Statistics on US Regions and Opioid Death Rates, 3 years
 ![IMAGE](errorbarsplot.png)
 
-**How I prepared the data and made these plots** :bar_chart: **Additionally, these links provide more information**
+**How I prepared the data and made these plots** :bar_chart: 
+
+**Additionally, these links provide more information**
 [pdf format](https://github.com/izzykayu/izzykayu.github.io/blob/master/national/graphsglimpse.pdf),
 [rmarkdown file](https://github.com/izzykayu/izzykayu.github.io/blob/master/national/graphsglimpse.Rmd)
 
