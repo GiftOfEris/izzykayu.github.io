@@ -45,9 +45,11 @@ _This project uses multiple government open data sets_
 
 #### Opioid Death Rates by Year Compared with t-test p-values.
 ![IMAGE](ttest.png)
-#### What states have significant Change in Opioid Death Rates? Can we find novel ways in machine learning to save lives?
+#### What states have significant Change in Opioid Death Rates? 
+>Can we find novel ways in machine learning to save lives?
 ![IMAGE](OpioidDeathRatesboxplot.png)
-#### Summary Statistics on US Regions and Opioid Death Rates, 3 years
+#### Summary Statistics on US Regions and Opioid Death Rates
+>Summary statistics of Death Rates for US regions in 3 years
 ![IMAGE](errorbarsplot.png)
 
 **How I prepared the data and made these plots** :bar_chart: 
