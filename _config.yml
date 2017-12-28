@@ -4,6 +4,3 @@ description: Be on the look out for data visualizations, predictive models, soci
 
 plugins:
   - jemoji
- 
- plugins:
-  - jekyll-mentions
