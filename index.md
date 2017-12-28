@@ -26,8 +26,8 @@ team members: _Isabel Metzger, Lorel Burns, DDS, Ana Raghunath_
 ### PERSONAL PROJECTS:
 1. DaniBot _(Chatbot based off my best friend Danielle because she is hilarious)_
 
->Oh and this is me! :smile:
-![IMAGE](dora.png)
+>Oh and this is me! :smile: I lovee Doraemon
+![IMAGE](dora.jpg)
 
 ## Data Visualization and Exploratory Data Analysis
 ## REAL TALK: Opioids
