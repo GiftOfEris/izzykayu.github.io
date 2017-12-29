@@ -1,5 +1,5 @@
 ### Welcome to izzykayu's github homepage
-I started learning Python :snake: and R about a year ago. I'm always trying to learn more :sparkles: so any feedback is greatly appreciated! :sunny: Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart:  You can reach me at [isabel.metzger@nyumc.org](isabel.metzger@nyumc.org) or [linkedin](https://www.linkedin.com/in/isabelmetzger)
+I started learning Python :snake: last July and R in September. But I've always coded a little bit (I wanted my _myspace_ to look pretty). I'm always trying to learn more :sparkles: so any feedback is greatly appreciated! :sunny: Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart:  You can reach me at [isabel.metzger@nyumc.org](isabel.metzger@nyumc.org) or [linkedin](https://www.linkedin.com/in/isabelmetzger)
 
 :camera: instagram:[@datavizgirls](https://www.instagram.com/datavizgirls/)
 
