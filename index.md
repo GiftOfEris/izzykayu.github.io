@@ -21,11 +21,8 @@ team members: _Isabel Metzger, Lorel Burns, DDS, Ana Raghunath_
 3. [Exploring Dental Care Affordability via Twitter: A Descriptive Study (power point pilot study overview)](https://github.com/izzykayu/izzykayu.github.io/blob/master/DentalTweets/DentalCareAffordabilityViaTwitterPilot.pdf)
 
 #### TERM PROJECTS:
-1. Natural Language Processing in identification of disease states in the MIMIC III dataset Medical Notes
-2. Modeling the Health Insurance Marketplace client
-3. Mortality Risk Prediction Model Using Natural Language Processing of Electronic Medical Records
-4. Identifying social media markers of substance abuse symptoms via tweets: Four predictive models
-5. Supervised Learning predicting Heroin Death vs Non Heroin Death in CT Accidental Drug Related Deaths Government Dataset 
+1. Identifying social media markers of substance abuse symptoms via tweets: Four predictive models
+2. Supervised Learning predicting Heroin Death vs Non Heroin Death in CT Accidental Drug Related Deaths Government Dataset 
 
 ### PERSONAL PROJECTS:
 1. DaniBot _(Chatbot based off my best friend Danielle because she is hilarious)_
