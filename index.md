@@ -1,5 +1,5 @@
 ### Welcome to izzykayu's github homepage
-I started learning Python :snake: last July and R in September. But I've always coded a little bit (I wanted my _myspace_ to look pretty). I'm always trying to learn more :sparkles: so any feedback is greatly appreciated! :sunny: Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart:  You can reach me at [isabel.metzger@nyumc.org](isabel.metzger@nyumc.org) or [linkedin](https://www.linkedin.com/in/isabelmetzger)
+I started learning Python :snake: in July and R in September. But I've always coded a little bit (I wanted my _myspace_ to look pretty). I'm always trying to learn more :sparkles: so any feedback is greatly appreciated! :sunny: Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart:  You can reach me at [isabel.metzger@nyumc.org](isabel.metzger@nyumc.org) or [linkedin](https://www.linkedin.com/in/isabelmetzger) or [quora](https://www.quora.com/profile/Isabel-Metzger-2)
 
 :camera: instagram:[@datavizgirls](https://www.instagram.com/datavizgirls/)
 
@@ -10,6 +10,9 @@ I started learning Python :snake: last July and R in September. But I've always 
 >Alluvial Time Series plot CT Drug Deaths
 >Counts of Drugs Found in the Body at time of death
 ![Accidental Drug Deaths from 2012 - 2016](alluvts.png)
+
+> Deaths on the Rise (CT Dataset)
+![IMAGE]
 
 >Twitter Map using Google Maps Geolocation API
 ![IMAGE](mapwithcoveragelevel.png)
