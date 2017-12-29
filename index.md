@@ -4,9 +4,10 @@ I started learning Python :snake: and R about a year ago. I'm always trying to l
 :camera: instagram:[@datavizgirls](https://www.instagram.com/datavizgirls/)
 
 ### Some dataviz examples
->Heat map of Accidental Drug Deaths from 2012 - 2016
+>Heat map of CT Accidental Drug Deaths from 2012 - 2016
 ![Heat map of Accidental Drug Deaths from 2012 - 2016](calendar.png)
-
+>Alluvial Time Series plot from the open gov dataset CT Accidental Drug Deaths from 2012 - 2016
+![Accidental Drug Deaths from 2012 - 2016](alluvts.png)
 >Twitter Map using Google Maps Geolocation API
 ![IMAGE](mapwithcoveragelevel.png)
 
