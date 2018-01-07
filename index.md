@@ -30,9 +30,6 @@ team members: _Isabel Metzger, Lorel Burns, DDS, Ana Raghunath_
 ### PERSONAL PROJECTS:
 1. DaniBot _(Chatbot based off my best friend Danielle because she is hilarious)_
 
->Oh and this is me! :smile: I lovee Doraemon
-![IMAGE](dora.jpg)
-
 ## Data Visualization and Exploratory Data Analysis
 ## REAL TALK: Opioids
 Growing up in a working-class community where drugs offered comfort to many, I witnessed relatives and friends struggle with drug addiction, some until it killed them. By the time I turned 21, my uncle had died of Hepatitis C, contracted through needle sharing, and three of my friends had fatally overdosed on opiates. These losses forced me to confront the complexity of pharmacology at an early age—that drugs designed to maximize health often contribute to the undoing of vulnerable lives.
