@@ -1,5 +1,7 @@
 ### Welcome to izzykayu's github homepage
-I started learning Python :snake: in July and R in September. But I've always coded a little bit (I wanted my _myspace_ to look pretty). I'm always trying to learn more :sparkles: so any feedback is greatly appreciated! :sunny: Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart:  You can reach me at [isabel.metzger@nyumc.org](isabel.metzger@nyumc.org) or [linkedin](https://www.linkedin.com/in/isabelmetzger) or [quora](https://www.quora.com/profile/Isabel-Metzger-2)
+I started learning Python :snake: in July and R in September. But I've always coded a little bit (I wanted my _myspace_ to look pretty). I'm always trying to learn more :sparkles: so any feedback is greatly appreciated! :sunny: Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart:  You can reach me at [isabel.metzger@nyumc.org](isabel.metzger@nyumc.org) or [linkedin](https://www.linkedin.com/in/isabelmetzger)
+
+[quora](https://www.quora.com/profile/Isabel-Metzger-2)
 
 :camera: instagram:[@datavizgirls](https://www.instagram.com/datavizgirls/)
 
@@ -24,7 +26,7 @@ team members: _Isabel Metzger, Lorel Burns, DDS, Ana Raghunath_
 3. [Exploring Dental Care Affordability via Twitter: A Descriptive Study (power point pilot study overview)](https://github.com/izzykayu/izzykayu.github.io/blob/master/DentalTweets/DentalCareAffordabilityViaTwitterPilot.pdf)
 
 #### TERM PROJECTS:
-1. Identifying social media markers of substance abuse symptoms via tweets: Four predictive models
+1. [Identifying social media markers of substance abuse symptoms via tweets: Four predictive models](https://github.com/izzykayu/izzykayu.github.io/blob/master/herointweets/ML_4models_tweetanalysis_heroin_IzzyKayu.pdf)
 2. Supervised Learning predicting Heroin Death vs Non Heroin Death in CT Accidental Drug Related Deaths Government Dataset 
 
 ### PERSONAL PROJECTS:
@@ -57,8 +59,6 @@ _This project uses multiple government open data sets_
 ![IMAGE](errorbarsplot.png)
 
 **How I prepared the data and made these plots** :bar_chart: 
-
-**Additionally, these links provide more information**
 [pdf format](https://github.com/izzykayu/izzykayu.github.io/blob/master/national/graphsglimpse.pdf),
 [rmarkdown file](https://github.com/izzykayu/izzykayu.github.io/blob/master/national/graphsglimpse.Rmd)
 
