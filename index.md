@@ -22,17 +22,17 @@ team members: _Isabel Metzger, Mark Grivainis, Brandon Mannion_
 1. [Identifying Potential Adverse Drug Interactions from Medical Notes with Natural Language Processing and Deep Learning Methods]
 
 team members: _Isabel Metzger, Akshay, Anupama Santhosh_
-2. [Creating a Natural Language Interface with MIMIC-III Database]
+1. [Creating a Natural Language Interface with MIMIC-III Database]
 
 team members: _Isabel Metzger, Julia Mahler_
-3. [Patient Quality Health Innovation Challenge:]
+1. [Patient Quality Health Innovation Challenge:]
 
 team members: _Isabel Metzger, Lorel Burns, DDS, Ana Raghunath_
 1. [Machine Learning in Dental Radiology: Interpretation of Periapical Lesions Associated with Maxillary Molars]
 2. [Predicting tweeter’s state insurance coverage level via tweeter's profile text and tweet text](izzykayu.github.io/twitterdental.md)
 3. [Exploring Dental Care Affordability via Twitter: A Descriptive Study (power point pilot study overview)](https://github.com/izzykayu/izzykayu.github.io/blob/master/DentalTweets/DentalCareAffordabilityViaTwitterPilot.pdf)
 
-#### TERM PROJECTS:
+#### INDIVIDUAL PROJECTS:
 1. [Identifying social media markers of substance abuse symptoms via tweets: Four predictive models](https://github.com/izzykayu/izzykayu.github.io/blob/master/herointweets/ML_4models_tweetanalysis_heroin_IzzyKayu.pdf)
 2. [Supervised Learning predicting Heroin Death vs Non Heroin Death in CT Accidental Drug Related Deaths Government Dataset]
 3. [Zero Start: Predicting 2 month Mortality with Minimal Patient Records]
