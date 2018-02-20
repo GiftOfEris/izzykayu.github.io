@@ -1,7 +1,5 @@
 ### Welcome to izzykayu's github homepage
-I started learning Python :snake: in July and R in September. But I've always coded a little bit (I wanted my _myspace_ to look pretty). I'm always trying to learn more :sparkles: so any feedback is greatly appreciated! :sunny: Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart:  You can reach me at [isabel.metzger@nyumc.org](isabel.metzger@nyumc.org) or [linkedin](https://www.linkedin.com/in/isabelmetzger)
-
-[quora](https://www.quora.com/profile/Isabel-Metzger-2)
+I started learning Python :snake: in July and R in September. But I've always coded a little bit (I wanted my _myspace_ to look pretty). I'm always trying to learn more :sparkles: so any feedback is greatly appreciated! :sunny: Love of data science :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart:  You can reach me at [isabel.metzger@nyumc.org](isabel.metzger@nyumc.org) or [linkedin](https://www.linkedin.com/in/isabelmetzger) or [quora](https://www.quora.com/profile/Isabel-Metzger-2)
 
 :camera: instagram:[@datavizgirls](https://www.instagram.com/datavizgirls/)
 
@@ -20,6 +18,11 @@ I started learning Python :snake: in July and R in September. But I've always co
 ![IMAGE](mapwithcoveragelevel.png)
 
 #### TEAM PROJECTS:
+team members: _Isabel Metzger, Mark Grivainis, Brandon Mannion_
+1. [Identifying Potential Adverse Drug Interactions from Medical Notes with Natural Language Processing and Deep Learning Methods]
+team members: _Isabel Metzger, Akshay, Anupama Santhosh_
+2. [Creating a Natural Language Interface with MIMIC-III Database]
+
 team members: _Isabel Metzger, Lorel Burns, DDS, Ana Raghunath_
 1. [Machine Learning in Dental Radiology: Interpretation of Periapical Lesions Associated with Maxillary Molars]
 2. [Predicting tweeter’s state insurance coverage level via tweeter's profile text and tweet text](izzykayu.github.io/twitterdental.md)
@@ -27,7 +30,8 @@ team members: _Isabel Metzger, Lorel Burns, DDS, Ana Raghunath_
 
 #### TERM PROJECTS:
 1. [Identifying social media markers of substance abuse symptoms via tweets: Four predictive models](https://github.com/izzykayu/izzykayu.github.io/blob/master/herointweets/ML_4models_tweetanalysis_heroin_IzzyKayu.pdf)
-2. Supervised Learning predicting Heroin Death vs Non Heroin Death in CT Accidental Drug Related Deaths Government Dataset 
+2. [Supervised Learning predicting Heroin Death vs Non Heroin Death in CT Accidental Drug Related Deaths Government Dataset]
+3. [Zero Start: Predicting 2 month Mortality with Minimal Patient Records]
 
 ### PERSONAL PROJECTS:
 1. DaniBot _(Chatbot based off my best friend Danielle because she is hilarious)_
