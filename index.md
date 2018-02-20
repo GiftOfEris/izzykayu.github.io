@@ -20,8 +20,12 @@ I started learning Python :snake: in July and R in September. But I've always co
 #### TEAM PROJECTS:
 team members: _Isabel Metzger, Mark Grivainis, Brandon Mannion_
 1. [Identifying Potential Adverse Drug Interactions from Medical Notes with Natural Language Processing and Deep Learning Methods]
+
 team members: _Isabel Metzger, Akshay, Anupama Santhosh_
 2. [Creating a Natural Language Interface with MIMIC-III Database]
+
+team members: _Isabel Metzger, Julia Mahler_
+3. [Patient Quality Health Innovation Challenge:]
 
 team members: _Isabel Metzger, Lorel Burns, DDS, Ana Raghunath_
 1. [Machine Learning in Dental Radiology: Interpretation of Periapical Lesions Associated with Maxillary Molars]
