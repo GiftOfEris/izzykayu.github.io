@@ -17,15 +17,19 @@ I started learning Python :snake: in July and R in September. But I've always co
 >Twitter Map using Google Maps Geolocation API
 ![IMAGE](mapwithcoveragelevel.png)
 
+## Some of my individual projects:
+![Objective](heroinobjective.png) ![IMAGE](dsm.png) ![IMAGE](withdrawal.png)
+
+
 #### TEAM PROJECTS:
 team members: _Isabel Metzger, Mark Grivainis, Brandon Mannion_
 1. [Identifying Potential Adverse Drug Interactions from Medical Notes with Natural Language Processing and Deep Learning Methods]
 
 team members: _Isabel Metzger, Akshay, Anupama Santhosh_
-1. [Creating a Natural Language Interface with MIMIC-III Database]
+1. [Creating a Natural Language Interface with Clinical Text]
 
 team members: _Isabel Metzger, Julia Mahler_
-1. [Patient Quality Health Innovation Challenge:]
+1. [Patient Quality Health Innovation Challenge]
 
 team members: _Isabel Metzger, Lorel Burns, DDS, Ana Raghunath_
 1. [Machine Learning in Dental Radiology: Interpretation of Periapical Lesions Associated with Maxillary Molars]
