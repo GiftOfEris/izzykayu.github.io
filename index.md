@@ -30,13 +30,14 @@ I wanted to follow a specific guideline and used the DSM-5 criteria for opioid u
 
 #### TEAM PROJECTS:
 team members: _Isabel Metzger, Mark Grivainis, Brandon Mannion_
-1. [Identifying Potential Adverse Drug Interactions from Medical Notes with Natural Language Processing and Deep Learning Methods]
+1. [Identifying ADRs from Medical Notes with Natural Language Processing and Deep Learning Methods]
 
 team members: _Isabel Metzger, Akshay, Anupama Santhosh_
 1. [Creating a Natural Language Interface with Clinical Text]
 
 team members: _Isabel Metzger, Julia Mahler, Teny Joseph_
 1. [Patient Quality Health Innovation Challenge]
+_Twitter sentiment but with deep leanring]I utilized a deep learning emoji method and will be uploading the tutorial link soon_
 
 team members: _Isabel Metzger, Lorel Burns, DDS, Ana Raghunath_
 1. [Machine Learning in Dental Radiology: Interpretation of Periapical Lesions Associated with Maxillary Molars]
