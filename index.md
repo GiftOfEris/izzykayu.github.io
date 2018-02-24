@@ -1,5 +1,5 @@
 ### Welcome to izzykayu's github homepage
-I started learning Python :snake: in July and R in September. But I've always coded a little bit (I wanted my _myspace_ to look pretty). I'm always trying to learn more :sparkles: so any feedback is greatly appreciated! I'm diagnosed with four learning disabilities including dyslexia and ADHD, so if I can start coding--you definitely can. :sunny: Love of data science and tattoos :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: You can reach me at [isabel.metzger@nyumc.org](isabel.metzger@nyumc.org) or [linkedin](https://www.linkedin.com/in/isabelmetzger) or my newly made [twitter](https://twitter.com/diamondcrowbar):sparkles: or [quora](https://www.quora.com/profile/Isabel-Metzger-2)
+I started learning Python :snake: in July and R in September. But I've always coded a little bit (I wanted my _myspace_ to look pretty). I'm always trying to learn more :sparkles: so any feedback is greatly appreciated! I'm diagnosed with four learning disabilities including dyslexia and ADHD, so if I can start coding--you definitely can. :sunny: Love of data science and tattoos :crystal_ball: Creative and Passionate :pencil: Futurist :green_heart: You can reach me at [isabel.metzger@nyumc.org](isabel.metzger@nyumc.org) or [linkedin](https://www.linkedin.com/in/isabelmetzger) or my newly made [twitter](https://twitter.com/diamondcrowbar):sparkles: or [quora](https://www.quora.com/profile/Isabel-Metzger-2):bust_in_silhouette:
 
 :camera: instagram:[@datavizgirls](https://www.instagram.com/datavizgirls/)
 
@@ -25,7 +25,6 @@ As someone who provides HCV/HIV testing and needle exchange services,
 I wanted to follow a specific guideline and used the DSM-5 criteria for opioid use disorder:
 
 >![Based off DSM-5](dsm.png) 
-
 >![Code provided below](withdrawal.png)
 
 
