@@ -18,7 +18,9 @@ I started learning Python :snake: in July and R in September. But I've always co
 ![IMAGE](mapwithcoveragelevel.png)
 
 ## Some of my individual projects:
-![Objective](heroinobjective.png) ![IMAGE](dsm.png) ![IMAGE](withdrawal.png)
+![Objective](heroinobjective.png) 
+![Based off DSM-5](dsm.png) 
+![Code provided below](withdrawal.png)
 
 
 #### TEAM PROJECTS:
