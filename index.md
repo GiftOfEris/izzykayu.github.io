@@ -19,8 +19,13 @@ I started learning Python :snake: in July and R in September. But I've always co
 
 Last semester's term project with 4 predictive models:
 >![Objective](heroinobjective.png) 
-What did I query? As someone who provides HCV/HIV testing and needle exchange services, I wanted to follow a specific guideline. I queried the following:
+
+##So What did I query?
+As someone who provides HCV/HIV testing and needle exchange services,
+I wanted to follow a specific guideline and used the DSM-5 criteria for opioid use disorder:
+
 >![Based off DSM-5](dsm.png) 
+
 >![Code provided below](withdrawal.png)
 
 
@@ -31,7 +36,7 @@ team members: _Isabel Metzger, Mark Grivainis, Brandon Mannion_
 team members: _Isabel Metzger, Akshay, Anupama Santhosh_
 1. [Creating a Natural Language Interface with Clinical Text]
 
-team members: _Isabel Metzger, Julia Mahler_
+team members: _Isabel Metzger, Julia Mahler, Teny Joseph_
 1. [Patient Quality Health Innovation Challenge]
 
 team members: _Isabel Metzger, Lorel Burns, DDS, Ana Raghunath_
