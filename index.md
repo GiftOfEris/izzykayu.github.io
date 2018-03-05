@@ -20,7 +20,7 @@ I started learning Python :snake: in July and R in September. But I've always co
 Last semester's term project with 4 predictive models:
 >![Objective](heroinobjective.png) 
 
-##So What did I query?
+### So What did I query?
 As someone who provides HCV/HIV testing and needle exchange services,
 I wanted to follow a specific guideline and used the DSM-5 criteria for opioid use disorder:
 
@@ -32,7 +32,7 @@ I wanted to follow a specific guideline and used the DSM-5 criteria for opioid u
 team members: _Isabel Metzger, Mark Grivainis, Brandon Mannion_
 1. [Identifying ADRs from Medical Notes with Natural Language Processing and Deep Learning Methods]
 
-team members: _Isabel Metzger, Akshay, Anupama Santhosh_
+team members: _Isabel Metzger, Akshay T, Anupama Santhosh, Ethan Wu_
 1. [Creating a Natural Language Interface with Clinical Text]
 
 team members: _Isabel Metzger, Julia Mahler, Teny Joseph, Nam Nguyen_
