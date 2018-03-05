@@ -1,16 +1,6 @@
 theme: jekyll-theme-minimal
 title: Isabel Metzger's Github
-description: Be on the look out for data visualizations, predictive models, social media analysis, mortality risk prediction, emoji sentiment analysis, and more fun stuff!
-This is my journey of learning to code, from basics in July 2017 to now writing deep learning code in March 2018. I frequently update my projects and portfolio.
-
-A little bit about me.
-
-I earned a BS in Biochemistry, with minors in both Physics and Mathematics, from Eastern Connecticut State University (ECSU). At ECSU, I served as the physics tutor and as a teaching assistant for courses in Biochemistry and General Chemistry and conducted research on carbon nanotubes and stress-defense in plants under Dr. Robert Keesey and Dr. Elizabeth Cowles, respectively. At Pace University, where I began my undergraduate education, I worked at Haskins Laboratories researching cryptosporidiosis, a disease with devastating implications for the immunocompromised. After graduating, I spent time at Harvard University’s Nock Lab, where I completed a research assistantship studying suicidal behavior among senior adults and veterans. My experience serving as a member of a research team extends beyond university-affiliated groups: at Nalas Engineering Services, I provided research support on projects contracted by the Department of Defense. Across these projects, I analyzed data using a range of software.
-
-Additionally, I completed one semester at the University of Maryland School of Pharmacy (UMSOP), ranked 9th in the nation. While I ultimately decided to withdraw, I managed to excel, placing in the top 25% of my class at the end of the semester.
-
-Currently, I am an MS student in Biomedical Informatics at the Sackler Institute of New York University. I am in my practicum, working under Yindalon Aphinyanaphongs, MD, PhD, in the Predictive Analytics Unit. My thesis is Zero Start: Natural Language Processing and Deep Learning of Clinical Text to Predict Mortality. I am passionate about machine learning methods to transform how we solve healthcare challenges. I am interested in taking advantage of these emerging technologies to improve how we understand patient health, predict outcomes, and target care. But not to stop at the collection of data, but to work towards implementation that can change lives.
-
+description: Be on the look out for data visualizations, predictive models, social media analysis, mortality risk prediction, emoji sentiment analysis, and more fun stuff! This is my journey of learning to code, from basics in July 2017 to now writing deep learning code in March 2018. I frequently update my projects and portfolio.
 
 
 plugins:
