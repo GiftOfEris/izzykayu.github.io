@@ -92,7 +92,8 @@ _This project uses multiple government open data sets_
 [pdf format](https://github.com/izzykayu/izzykayu.github.io/blob/master/national/graphsglimpse.pdf),
 [rmarkdown file](https://github.com/izzykayu/izzykayu.github.io/blob/master/national/graphsglimpse.Rmd)
 
->The poster I recently showcased at the NYU Open Data Week Event held by BUGS Open Source :heart:
+The poster from the showcase at NYU Open Data Week '18 Event held by BUGS Open Source :heart:
+> Data-storytelling
 ![IMAGE](PAU_Poster Portrait_OpenDataStory_FINAL_submit.potx.png)
 
 **Sources:**
