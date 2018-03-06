@@ -19,9 +19,6 @@ Currently, I am an MS student in Biomedical Informatics at the Sackler Institute
 >Counts of Drugs Found in the Body at time of death
 ![Accidental Drug Deaths from 2012 - 2016](alluvts.png)
 
-> Deaths on the Rise (CT Dataset)
-![IMAGE]
-
 >Twitter Map using Google Maps Geolocation API
 ![IMAGE](mapwithcoveragelevel.png)
 
@@ -45,7 +42,7 @@ team members: _Isabel Metzger, Akshay T, Anupama Santhosh, Ethan Wu_
 
 team members: _Isabel Metzger, Julia Mahler, Teny Joseph, Nam Nguyen_
 1. [Patient Quality Health Innovation Challenge]
-_Twitter sentiment and chatbot creatio_
+_Twitter sentiment including my favorite form of expression (emojis) and chatbot creation_
 
 team members: _Isabel Metzger, Lorel Burns, DDS, Ana Raghunath_
 1. [Machine Learning in Dental Radiology: Interpretation of Periapical Lesions Associated with Maxillary Molars]
@@ -93,7 +90,7 @@ _This project uses multiple government open data sets_
 [rmarkdown file](https://github.com/izzykayu/izzykayu.github.io/blob/master/national/graphsglimpse.Rmd)
 
 #### The poster from the showcase at NYU Open Data Week '18 Event held by BUGS Open Source :heart:
-> Data-storytelling
+>Data-storytelling.
 ![IMAGE](PAU_Poster Portrait_OpenDataStory_FINAL_submit.potx.png)
 
 **Sources:**
