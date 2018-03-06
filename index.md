@@ -92,6 +92,9 @@ _This project uses multiple government open data sets_
 [pdf format](https://github.com/izzykayu/izzykayu.github.io/blob/master/national/graphsglimpse.pdf),
 [rmarkdown file](https://github.com/izzykayu/izzykayu.github.io/blob/master/national/graphsglimpse.Rmd)
 
+>The poster I recently showcased at the NYU Open Data Week Event held by BUGS Open Source :heart:
+![IMAGE](PAU_Poster Portrait_OpenDataStory_FINAL_submit.potx.png)
+
 **Sources:**
 [CDC Drug Overdose Dataset](https://www.cdc.gov/drugoverdose/data/statedeaths.html)
 [CT Accidental Drug Deaths Dataset](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015)
