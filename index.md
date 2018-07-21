@@ -11,9 +11,9 @@ I hold an MS in Biomedical Informatics from the Sackler Institute of New York Un
 I also create hand-drawn and hand-painted gifs :woman_artist: 
 
 ### what I will be doing next year
-CU Skaggs Doctor of Pharmacy :orange_heart: starting August 2019.
+CU Skaggs Doctor of Pharmacy :sunrise_over_mountains: starting August 2019.
 
-And of course, I will still be trying to learning as much as I can about clinical machine learning.
+And of course, I will still be trying to learning as much as I can about machine learning and deep learning.
 
 ### what I did before
 
