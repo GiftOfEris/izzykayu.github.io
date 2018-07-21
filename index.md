@@ -6,7 +6,7 @@ I started learning Python :snake: in July 2017 and R in September 2017. But I co
 I am passionate about machine learning methods to transform how we solve healthcare challenges. I am interested in taking advantage of these emerging technologies to improve how we understand patient health, predict outcomes, and target care. But not to stop at the collection of data, but to work towards implementation that can change lives.
 
 ### what I do now
-I hold an MS in Biomedical Informatics from the Sackler Institute of New York University. During my master's thesis, I worked on deep learning models to predict Mortality from clinical text and have been contracted by New York Langone Health to build 2 month mortality machine-learning based models from initial history and physical notes of admitted patients. Specifically I work towards integrating a model into the hospital’s scalable text classification infrastructure that will emit model classifications at a performance threshold daily to an inpatient team for feedback.
+I hold an MS in Biomedical Informatics from the Sackler Institute of New York University. During my master's thesis, I worked on deep learning models to predict Mortality from clinical text and have been contracted by New York Langone Health to build 2 month mortality machine-learning based models from initial history and physical notes of admitted patients. Specifically I work towards integrating a model into the hospital’s scalable text classification infrastructure that will emit model classifications at a performance threshold daily to an inpatient team for feedback. 
 
 I also create hand-drawn and hand-painted gifs :woman_artist: 
 
@@ -45,10 +45,10 @@ I wanted to follow a specific guideline and used the DSM-5 criteria for opioid u
 
 #### TEAM PROJECTS:
 team members: _Isabel Metzger, Mark Grivainis_
-1. []
+1. [Among the Sleep] https://github.com/izzykayu/AmongtheSleep
 
 team members: _Isabel Metzger, Akshay T, Anupama Santhosh, Ethan Wu_
-1. [A Natural Language Interface for Electronic Health Records]
+1. [A Natural Language Interface for Electronic Health Records](https://github.com/izzykayu/NaturalLanguageInterface)
 _We built a natural language interface with the MIMIC III database using a seq2seq model for translation of natural language to SQL query_
 
 team members: _Isabel Metzger, Julia Mahler, Teny Joseph, Nam Nguyen_
