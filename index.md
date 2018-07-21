@@ -1,15 +1,25 @@
 ### Welcome to izzykayu's github homepage
-I started learning Python :snake: in July and R in September. But I coded a little bit a long, long time ago (I wanted my _myspace_ to look pretty). I'm always trying to learn more :sparkles: so any feedback is greatly appreciated! I'm diagnosed with four learning disabilities including dyslexia and ADHD, so if I can start coding--you definitely can. :sunny: Love of data science and tattoos :crystal_ball: Creative and Passionate. Minority Health and LGBTQ+ Health. Ethics and Policy. I also create hand-drawn and hand-painted gifs :woman_artist: Futurist :green_heart: You can reach me at [isabel.metzger@nyumc.org](isabel.metzger@nyumc.org) or [linkedin](https://www.linkedin.com/in/isabelmetzger) or my newly made [twitter](https://twitter.com/diamondcrowbar):sparkles: or [quora](https://www.quora.com/profile/Isabel-Metzger-2):bust_in_silhouette:
+I started learning Python :snake: in July 2017 and R in September 2017. But I coded a little bit a long, long time ago (I wanted my _myspace_ to look pretty). I'm always trying to learn more :sparkles: so any feedback is greatly appreciated! I'm diagnosed with four learning disabilities including dyslexia and ADHD, so if I can start coding--you definitely can. :sunny: Love of data science and tattoos :crystal_ball: Creative and Passionate. Pharmacy and Machine Learning. Futurist :green_heart: You can reach me at [isabel.metzger@nyumc.org](isabel.metzger@nyumc.org) or [linkedin](https://www.linkedin.com/in/isabelmetzger) or my newly made [twitter](https://twitter.com/diamondcrowbar):sparkles: or [quora](https://www.quora.com/profile/Isabel-Metzger-2):bust_in_silhouette:
 
 :camera: instagram:[@datavizgirls](https://www.instagram.com/datavizgirls/)
 
-### My professional background.
-I earned a BS in Biochemistry, with minors in both Physics and Mathematics (and Studio Art), from ECSU. At ECSU, I served as the physics tutor and as a teaching assistant for courses in Biochemistry and General Chemistry and conducted research on carbon nanotubes and stress-defense in plants. At Pace University, where I began my undergraduate education, I worked at Haskins Laboratories researching cryptosporidiosis, a disease with devastating implications for the immunocompromised. After graduating, I spent time at Harvard University’s Nock Lab, where I completed a research assistantship studying suicidal behavior among senior adults and veterans. My experience serving as a member of a research team extends beyond university-affiliated groups: at Nalas Engineering Services, I provided research support on projects contracted by the Department of Defense.
+I am passionate about machine learning methods to transform how we solve healthcare challenges. I am interested in taking advantage of these emerging technologies to improve how we understand patient health, predict outcomes, and target care. But not to stop at the collection of data, but to work towards implementation that can change lives.
+
+### what I do now
+I hold an MS in Biomedical Informatics from the Sackler Institute of New York University. During my master's thesis, I worked on deep learning models to predict Mortality from clinical text and have been contracted by New York Langone Health to build 2 month mortality machine-learning based models from initial history and physical notes of admitted patients. Specifically I work towards integrating a model into the hospital’s scalable text classification infrastructure that will emit model classifications at a performance threshold daily to an inpatient team for feedback.
+
+I also create hand-drawn and hand-painted gifs :woman_artist: 
+
+### what I will be doing next year
+CU Skaggs Doctor of Pharmacy :orange_heart: starting August 2019.
+
+And of course, I will still be trying to learning as much as I can about clinical machine learning.
+
+### what I did before
+
+I earned a BS in Biochemistry, with minors in both Physics and Mathematics (and Studio Art), from ECSU. At ECSU, I served as the physics tutor and as a teaching assistant for courses in Biochemistry and General Chemistry and conducted research on carbon nanotubes and stress-defense in plants. At Pace University, where I began my undergraduate education, I worked at Haskins Laboratories researching cryptosporidiosis, a disease with devastating implications for the immunocompromised. After graduating, I spent time at Harvard University’s Nock Lab, where I completed a research assistantship studying suicidal behavior among senior adults and veterans. My experience serving as a member of a research team extends beyond university-affiliated groups: at Nalas Engineering Services, I proided research support on projects contracted by the Department of Defense.
 
 Additionally, I completed one semester at the University of Maryland School of Pharmacy (UMSOP), ranked 9th in the nation. While I ultimately decided to withdraw, I managed to excel, placing in the top 25% of my class at the end of the semester.
-
-Currently, I graduate with an MS in Biomedical Informatics from the Sackler Institute of New York University. I am in my practicum, working under Yindalon Aphinyanaphongs, MD, PhD, in the Predictive Analytics Unit at New York University Langone Medical Center. My thesis is Zero Start: Natural Language Processing and Deep Learning of Clinical Text to Predict Mortality. I am passionate about machine learning methods to transform how we solve healthcare challenges. I am interested in taking advantage of these emerging technologies to improve how we understand patient health, predict outcomes, and target care. But not to stop at the collection of data, but to work towards implementation that can change lives.
-
 
 ### Some dataviz examples
 >Heat map of CT Accidental Drug Deaths from 2012 - 2016
