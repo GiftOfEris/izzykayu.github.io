@@ -63,7 +63,6 @@ team members: _Isabel Metzger, Lorel Burns, DDS, Ana Raghunath_
 #### INDIVIDUAL PROJECTS:
 1. [Identifying social media markers of substance abuse symptoms via tweets: Four predictive models](https://github.com/izzykayu/izzykayu.github.io/blob/master/herointweets/ML_4models_tweetanalysis_heroin_IzzyKayu.pdf)
 2. [Supervised Learning predicting Heroin Death vs Non Heroin Death in CT Accidental Drug Related Deaths Government Dataset](https://github.com/izzykayu/izzykayu.github.io/blob/master/herointweets/DataStory_Short_IsabelMetzger_NYCDATAWEEK.pdf)
-3. [Zero Start: Predicting 2 month Mortality with Minimal Patient Records]
 
 ### PERSONAL PROJECTS:
 1. DaniBot _(Chatbot based off my best friend Danielle because she is hilarious)_
