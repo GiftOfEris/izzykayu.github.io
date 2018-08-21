@@ -10,10 +10,11 @@ I hold an MS in Biomedical Informatics from the Sackler Institute of New York Un
 
 I also create hand-drawn and hand-painted gifs :woman_artist: 
 
-### future plans
-CU Skaggs Doctor of Pharmacy :sunrise_over_mountains: 
 
-And of course, I will still be trying to learning as much as I can about machine learning and deep learning.
+### future plans
+:sunrise_over_mountains: 
+
+I will still be trying to learning as much as I can about machine learning and deep learning.
 
 ### what I did before
 
