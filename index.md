@@ -9,12 +9,12 @@ I am passionate about machine learning methods to transform how we solve healthc
 I hold an MS in Biomedical Informatics from the Sackler Institute of New York University. During my master's thesis, I worked on deep learning models to predict Mortality from clinical text and have been contracted by New York Langone Health to build 2 month mortality machine-learning based models from initial history and physical notes of admitted patients. Specifically I work towards integrating a model into the hospital’s scalable text classification infrastructure that will emit model classifications at a performance threshold daily to an inpatient team for feedback. 
 
 I also create hand-drawn and hand-painted gifs :woman_artist: 
-
+<iframe src="https://giphy.com/embed/VPJ4jqUVZenyE" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/train-VPJ4jqUVZenyE">via GIPHY</a></p>
 
 ### future plans
 :sunrise_over_mountains: 
 
-I will still be trying to learning as much as I can about machine learning and deep learning.
+Continuing to learn as much as I can about machine learning and deep learning.
 
 ### what I did before
 
@@ -46,7 +46,8 @@ I wanted to follow a specific guideline and used the DSM-5 criteria for opioid u
 
 #### TEAM PROJECTS:
 team members: _Isabel Metzger, Mark Grivainis_
-1. [Among the Sleep] https://github.com/izzykayu/AmongtheSleep
+1. [Among the Sleep] (https://github.com/izzykayu/AmongtheSleep)
+_Time series physionet data to identify non-apnea sleep disturbances_ 
 
 team members: _Isabel Metzger, Akshay T, Anupama Santhosh, Ethan Wu_
 1. [A Natural Language Interface for Electronic Health Records](https://github.com/izzykayu/NaturalLanguageInterface)
@@ -57,7 +58,6 @@ team members: _Isabel Metzger, Julia Mahler, Teny Joseph, Nam Nguyen_
 _Twitter sentiment including my favorite form of expression (emojis) and chatbot creation_
 
 team members: _Isabel Metzger, Lorel Burns, DDS, Ana Raghunath_
-1. [Machine Learning in Dental Radiology: Interpretation of Periapical Lesions Associated with Maxillary Molars]
 2. [Predicting tweeter’s state insurance coverage level via tweeter's profile text and tweet text](izzykayu.github.io/twitterdental.md)
 3. [Exploring Dental Care Affordability via Twitter: A Descriptive Study](https://github.com/izzykayu/izzykayu.github.io/blob/master/DentalTweets/DentalCareAffordabilityViaTwitterPilot.pdf)
 
