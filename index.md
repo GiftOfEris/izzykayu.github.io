@@ -8,7 +8,8 @@ I am passionate about machine learning methods to transform how we solve healthc
 ### what I do now
 I hold an MS in Biomedical Informatics from the Sackler Institute of New York University. During my master's thesis, I worked on deep learning models to predict Mortality from clinical text and have been contracted by New York Langone Health to build 2 month mortality machine-learning based models from initial history and physical notes of admitted patients. Specifically I work towards integrating a model into the hospital’s scalable text classification infrastructure that will emit model classifications at a performance threshold daily to an inpatient team for feedback. 
 
-I also create hand-drawn and hand-painted gifs :woman_artist: 
+I also create hand-drawn/hand-painted gifs :woman_artist:
+
 ![giph]<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/VPJ4jqUVZenyE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/train-VPJ4jqUVZenyE">via GIPHY</a></p>
 
 ### future plans
