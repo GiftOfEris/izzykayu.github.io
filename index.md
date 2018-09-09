@@ -9,7 +9,7 @@ I am passionate about machine learning methods to transform how we solve healthc
 I hold an MS in Biomedical Informatics from the Sackler Institute of New York University. During my master's thesis, I worked on deep learning models to predict Mortality from clinical text and have been contracted by New York Langone Health to build 2 month mortality machine-learning based models from initial history and physical notes of admitted patients. Specifically I work towards integrating a model into the hospital’s scalable text classification infrastructure that will emit model classifications at a performance threshold daily to an inpatient team for feedback. 
 
 I also create hand-drawn and hand-painted gifs :woman_artist: 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/VPJ4jqUVZenyE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/train-VPJ4jqUVZenyE">via GIPHY</a></p>
+![giph]<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/VPJ4jqUVZenyE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/train-VPJ4jqUVZenyE">via GIPHY</a></p>
 
 ### future plans
 :sunrise_over_mountains: 
@@ -45,7 +45,10 @@ I wanted to follow a specific guideline and used the DSM-5 criteria for opioid u
 
 
 #### TEAM PROJECTS:
-team members: _Isabel Metzger, Mark Grivainis_
+team members: _Andy, Lee, Isabel Metzger_
+1. [Identifying Adverse Drug Events from Clinical Discharge Summaries](https://github.com/izzykayu/n2c2TRACK2)
+
+team members: _Mark Grivainis, Isabel Metzger_
 1. [Among the Sleep] (https://github.com/izzykayu/AmongtheSleep)
 _Time series physionet data to identify non-apnea sleep disturbances_ 
 
@@ -58,8 +61,8 @@ team members: _Isabel Metzger, Julia Mahler, Teny Joseph, Nam Nguyen_
 _Twitter sentiment including my favorite form of expression (emojis) and chatbot creation_
 
 team members: _Isabel Metzger, Lorel Burns, DDS, Ana Raghunath_
-2. [Predicting tweeter’s state insurance coverage level via tweeter's profile text and tweet text](izzykayu.github.io/twitterdental.md)
-3. [Exploring Dental Care Affordability via Twitter: A Descriptive Study](https://github.com/izzykayu/izzykayu.github.io/blob/master/DentalTweets/DentalCareAffordabilityViaTwitterPilot.pdf)
+1. [Predicting tweeter’s state insurance coverage level via tweeter's profile text and tweet text](izzykayu.github.io/twitterdental.md)
+2. [Exploring Dental Care Affordability via Twitter: A Descriptive Study](https://github.com/izzykayu/izzykayu.github.io/blob/master/DentalTweets/DentalCareAffordabilityViaTwitterPilot.pdf)
 
 #### INDIVIDUAL PROJECTS:
 1. [Identifying social media markers of substance abuse symptoms via tweets: Four predictive models](https://github.com/izzykayu/izzykayu.github.io/blob/master/herointweets/ML_4models_tweetanalysis_heroin_IzzyKayu.pdf)
