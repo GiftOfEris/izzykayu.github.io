@@ -10,7 +10,7 @@ I hold an MS in Biomedical Informatics from the Sackler Institute of New York Un
 
 I also create hand-drawn/hand-painted gifs :woman_artist:
 
-![giph]<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/VPJ4jqUVZenyE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/train-VPJ4jqUVZenyE">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/VPJ4jqUVZenyE" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/train-VPJ4jqUVZenyE">via GIPHY</a></p>
 
 ### future plans
 :sunrise_over_mountains: 
