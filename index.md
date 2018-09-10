@@ -47,7 +47,7 @@ I wanted to follow a specific guideline and used the DSM-5 criteria for opioid u
 
 #### TEAM PROJECTS:
 team members: _Andy, Lee, Isabel Metzger_
-1. [Identifying Adverse Drug Events from Clinical Discharge Summaries](https://github.com/izzykayu/n2c2TRACK2)
+1. [Adverse Drug Events and Medication Extraction in EHRs](https://github.com/izzykayu/n2c2TRACK2)
 
 team members: _Mark Grivainis, Isabel Metzger_
 1. [Among the Sleep] (https://github.com/izzykayu/AmongtheSleep)
